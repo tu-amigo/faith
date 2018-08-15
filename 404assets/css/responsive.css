@@ -21,8 +21,8 @@
 	#page-maintenance-1 .panda-wrapper {
 	    background-image: url('../img/bg-m1b.png');
 	    background-repeat: no-repeat;
-	    background-position: center bottom;
-	    min-height: 1100px
+		background-position: top;
+	    min-height: 800px;
 	}
 
 	.panda-countdown {
