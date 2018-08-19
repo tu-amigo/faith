@@ -14,19 +14,20 @@
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
     
     <!-- Custom CSS -->
+    <link rel="stylesheet" href="../subjectAssets/css/animate.css">
     <link rel="stylesheet" href="../subjectAssets/css/style.css">
     <title>3rd Year myAmigo</title>
     
     <!-- Dynamic Templates -->
     <!-- Load Course Info -->
     <script type="text/x-tmpl-mustache" id="info_template">
-        <h3>{{name}}</h3>
-        <p class="lead">Credits : {{credit}}</p>
+        <h3 class="animated slideInDown">{{name}}</h3>
+        <p class="lead animated slideInDown">Credits : {{credit}}</p>
     </script>
     
     <!-- Load Marks Info -->
     <script type="text/x-tmpl-mustache" id="HM_template">
-        <div class="card handout-card" style="width: 45%;">
+        <div class="card handout-card animated slideInDown" style="width: 45%;">
             <div class="card-body">
                 <p class="card-text text-muted" id="handoutName">{{code}}</p>
                 <h5 class="card-title">Course Handout</h5>
@@ -37,7 +38,7 @@
                 <a href={{handout}} target="_blank" class="btn btn-success mt-3" id="handoutLink">Download</a>
             </div>
         </div>
-        <div class="card" style="width: 45%;">
+        <div class="card animated slideInDown" style="width: 45%;">
             <div class="card-body">
                 <h5 class="card-title">Marks Distribution</h5>
                 <p class="card-text">
@@ -66,7 +67,7 @@
     <!-- Load Slide-Cards Info -->
     <script type="text/x-tmpl-mustache" id="slide_cards">
         {{#slide}}
-            <div class="card" style="width: 30%;">
+            <div class="card animated slideInDown" style="width: 30%;">
                 <div class="card-body">
                     <p class="card-text text-muted">{{code}}</p>
                     <h5 class="card-title py-1">{{title}}</h5>
@@ -78,7 +79,7 @@
     <!-- Load Notes-Cards Info -->
     <script type="text/x-tmpl-mustache" id="note_cards">
         {{#note}}
-            <div class="card" style="width: 30%;">
+            <div class="card animated slideInDown" style="width: 30%;">
                 <div class="card-body">
                     <p class="card-text text-muted">{{code}}</p>
                     <h5 class="card-title py-1">{{title}}</h5>
@@ -90,7 +91,7 @@
     <!-- Load Sheet-Cards Info -->
     <script type="text/x-tmpl-mustache" id="sheet_cards">
         {{#sheet}}
-            <div class="card" style="width: 30%;">
+            <div class="card animated slideInDown" style="width: 30%;">
                 <div class="card-body">
                     <p class="card-text text-muted">{{code}}</p>
                     <h5 class="card-title py-1">{{title}}</h5>
@@ -103,7 +104,7 @@
     <!-- Load Lab-Cards Info -->
     <script type="text/x-tmpl-mustache" id="lab_cards">
         {{#lab}}
-            <div class="card" style="width: 30%;">
+            <div class="card animated slideInDown" style="width: 30%;">
                 <div class="card-body">
                     <p class="card-text text-muted">{{code}}</p>
                     <h5 class="card-title py-2">{{title}}</h5>
@@ -115,7 +116,7 @@
     <!-- Load Papers-Cards Info -->
     <script type="text/x-tmpl-mustache" id="paper_cards">
         {{#paper}}
-            <div class="card" style="width: 30%;">
+            <div class="card animated slideInDown" style="width: 30%;">
                 <div class="card-body">
                     <p class="card-text text-muted">{{code}}</p>
                     <h5 class="card-title">{{title}}</h5>
@@ -129,7 +130,7 @@
     <!-- Load Book-Cards Info -->
     <script type="text/x-tmpl-mustache" id="book_cards">
         {{#book}}
-            <div class="card" style="width: 30%;">
+            <div class="card animated slideInDown" style="width: 30%;">
                 <div class="card-body">
                     <p class="card-text text-muted">{{code}}</p>
                     <h5 class="card-title">{{title}}</h5>
@@ -148,7 +149,7 @@
     gtag('config', 'UA-123775236-1');
     </script>
 </head>
-<body>
+<body class="animated fadeIn">
     <header>
         <div class="collapse" id="navbarHeader" style="background-color: #272727;">
           <div class="container">
