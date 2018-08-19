@@ -206,6 +206,42 @@ var uec307 = {
     sheet : [
         { title : 'Tutorial Sheet 1', link : 'https://drive.google.com/open?id=1nl8oXaxjXQgeXoHoifFA-NPdyPCXriwN', sollink : '', status : 'NAV'},
         { title : 'Tutorial Sheet 2', link : 'https://drive.google.com/open?id=1E_XRdA_7qoZ5uLyw6fbaJ1eErkPVFY5Y', sollink : '', status : 'NAV'},
+        { title : 'Tutorial Sheet 3', link : 'https://drive.google.com/open?id=1rh_No5Aq8oHhgcU8CBqLFhHTIHyXDtIz', sollink : 'https://drive.google.com/open?id=1b_2NuUj2tXR_QK7_UpiIN-nsk35MUner', status : 'AV'},
+        { title : 'Tutorial Sheet 4', link : 'https://drive.google.com/open?id=1EmFWJKRKAYcdo8Jbuxvgsu2cUJ9bRemH', sollink : 'https://drive.google.com/open?id=1b_2NuUj2tXR_QK7_UpiIN-nsk35MUner', status : 'AV'}
+    ],
+    
+    paper : [
+        { title : '2018 EndSem (AUX)', link : 'https://drive.google.com/open?id=1LabT2CAoAZhso5bTsH58A1uYyZdUaBIW'},
+        { title : '2017 EndSem', link : 'https://drive.google.com/open?id=14rP2M-O1qKhDZFBs74iqkycvAnuSDYA9'},
+        { title : '2017 MidSem', link : 'https://drive.google.com/open?id=14ZMM2msHQVfhJVtJynVGJ3-VN_RVEmHM'}
+    ],
+    book : [
+        { title : 'Elements of Electromagnetics by Sadiku', link : 'https://drive.google.com/open?id=1to1TvKvGbGSs1sujQJSIJOt51LIBWfAF'},
+        { title : 'Engineering Electromagnetics by W H Hyatt', link : 'https://drive.google.com/open?id=1YQNyjyjDi9UYPW1z9DyV5lBa2YHth7yJ'}
+    ]
+ };
+ //UEC510 Computer Architecture
+var uec510 = {
+    name : 'UEC510 Computer Architecture ',
+    code : 'UEC510',
+    credit : 3.5,
+    ltp : 'L-3 &nbsp;&nbsp;&nbsp; T-1 &nbsp;&nbsp;&nbsp; P-0',
+    handout : 'https://drive.google.com/open?id=1wiLT0jrIpFnXltPvFXuz7QR4VgpunN5I',
+    marks : [
+        { num : 1, test: 'MST', mark: 30},
+        { num : 2, test: 'EST', mark: 45},
+        { num : 3, test: 'Lab/Quiz/Tut', mark: 25}
+    ],
+    slide : [
+        { title : '1 - Introduction', link : 'https://drive.google.com/open?id=1CAWmlM1HzVHmTrf1LmLmBo7wr_19eZpY'},
+        { title : '2 - Co-ordinate Conversion Sheet', link : 'https://drive.google.com/open?id=1ifyRt0X1kZiDJAon2o8YJEYjbOOAZl4g'},
+        { title : '3 - Dot Product of the Unit Vector of Different Coordinates', link : 'https://drive.google.com/open?id=1IsKmNBPQYHhZD-S8-RxbwWOSRSyVsP5S'}
+        
+ 
+    ],
+    sheet : [
+        { title : 'Tutorial Sheet 1', link : 'https://drive.google.com/open?id=1nl8oXaxjXQgeXoHoifFA-NPdyPCXriwN', sollink : '', status : 'NAV'},
+        { title : 'Tutorial Sheet 2', link : 'https://drive.google.com/open?id=1E_XRdA_7qoZ5uLyw6fbaJ1eErkPVFY5Y', sollink : '', status : 'NAV'},
         { title : 'Tutorial Sheet 3', link : 'https://drive.google.com/open?id=1rh_No5Aq8oHhgcU8CBqLFhHTIHyXDtIz', sollink : '', status : 'NAV'},
         { title : 'Tutorial Sheet 4', link : 'https://drive.google.com/open?id=1EmFWJKRKAYcdo8Jbuxvgsu2cUJ9bRemH', sollink : 'https://drive.google.com/open?id=1b_2NuUj2tXR_QK7_UpiIN-nsk35MUner', status : 'AV'}
     ],
@@ -220,3 +256,4 @@ var uec307 = {
         { title : 'Engineering Electromagnetics by W H Hyatt', link : 'https://drive.google.com/open?id=1YQNyjyjDi9UYPW1z9DyV5lBa2YHth7yJ'}
     ]
  };
+ 
