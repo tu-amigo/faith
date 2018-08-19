@@ -209,7 +209,7 @@ var uec307 = {
         { title : 'Tutorial Sheet 3', link : 'https://drive.google.com/open?id=1rh_No5Aq8oHhgcU8CBqLFhHTIHyXDtIz'},
         { title : 'Tutorial Sheet 4', link : 'https://drive.google.com/open?id=1EmFWJKRKAYcdo8Jbuxvgsu2cUJ9bRemH'}
     ],
-    sol : [
+    tutsol : [
         { title : 'Tutorial Sheet 1', link : ''},
         { title : 'Tutorial Sheet 2', link : ''},
         { title : 'Tutorial Sheet 3-4', link : 'https://drive.google.com/open?id=1b_2NuUj2tXR_QK7_UpiIN-nsk35MUner'}
