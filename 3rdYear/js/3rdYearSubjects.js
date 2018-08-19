@@ -226,7 +226,7 @@ var uec510 = {
     code : 'UEC510',
     credit : 3.5,
     ltp : 'L-3 &nbsp;&nbsp;&nbsp; T-1 &nbsp;&nbsp;&nbsp; P-0',
-    handout : 'https://drive.google.com/open?id=1wiLT0jrIpFnXltPvFXuz7QR4VgpunN5I',
+    handout : 'https://jpg2pdf.com/',
     marks : [
         { num : 1, test: 'MST', mark: 30},
         { num : 2, test: 'EST', mark: 45},
@@ -272,7 +272,7 @@ var uec612 = {
     code : 'UEC502',
     credit : 4.5,
     ltp : 'L-3 &nbsp;&nbsp;&nbsp; T-1 &nbsp;&nbsp;&nbsp; P-2',
-    handout : 'https://drive.google.com/open?id=17Z7VkqsaLtpCLauAcC_PypzjjDg2whzO',
+    handout : 'https://drive.google.com/open?id=1uYCLKtPcRE2vQd6rbCUzcb7HgREiMGhB',
     marks : [
         { num : 1, test: 'MST', mark: 25},
         { num : 2, test: 'EST', mark: 35},
