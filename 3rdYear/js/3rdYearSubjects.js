@@ -212,7 +212,7 @@ var uec307 = {
     sol : [
         { title : 'Tutorial Sheet 1', link : ''},
         { title : 'Tutorial Sheet 2', link : ''},
-        { title : 'Tutorial Sheet 3-4', link : ''}
+        { title : 'Tutorial Sheet 3-4', link : 'https://drive.google.com/open?id=1b_2NuUj2tXR_QK7_UpiIN-nsk35MUner'}
        
     ],
    
@@ -221,4 +221,8 @@ var uec307 = {
         { title : '2017 EndSem', link : 'https://drive.google.com/open?id=14rP2M-O1qKhDZFBs74iqkycvAnuSDYA9'},
         { title : '2017 MidSem', link : 'https://drive.google.com/open?id=14ZMM2msHQVfhJVtJynVGJ3-VN_RVEmHM'}
     ],
+    book : [
+        { title : 'Elements of Electromagnetics', link : 'https://drive.google.com/open?id=1to1TvKvGbGSs1sujQJSIJOt51LIBWfAF'},
+        { title : 'Engineering Electromagnetics by W H Hyatt', link : 'https://drive.google.com/open?id=1YQNyjyjDi9UYPW1z9DyV5lBa2YHth7yJ'}
+    ]
  };
