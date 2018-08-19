@@ -279,7 +279,7 @@ var uec612 = {
         { num : 3, test: 'Lab/Quiz/Tut', mark: 40}
     ],
     note : [
-        { title : '', link : ''},
+        { title : 'Introduction', link : 'https://drive.google.com/open?id=1dRGAsaigwbFciyg3ihMz5JdSJ7CCpvR1'},
         { title : '', link : ''},
         { title : '', link : ''},
         { title : '', link : ''},
