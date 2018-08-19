@@ -222,7 +222,7 @@ var uec307 = {
         { title : '2017 MidSem', link : 'https://drive.google.com/open?id=14ZMM2msHQVfhJVtJynVGJ3-VN_RVEmHM'}
     ],
     book : [
-        { title : 'Elements of Electromagnetics', link : 'https://drive.google.com/open?id=1to1TvKvGbGSs1sujQJSIJOt51LIBWfAF'},
+        { title : 'Elements of Electromagnetics by Sadiku', link : 'https://drive.google.com/open?id=1to1TvKvGbGSs1sujQJSIJOt51LIBWfAF'},
         { title : 'Engineering Electromagnetics by W H Hyatt', link : 'https://drive.google.com/open?id=1YQNyjyjDi9UYPW1z9DyV5lBa2YHth7yJ'}
     ]
  };
