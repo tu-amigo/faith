@@ -266,4 +266,56 @@ var uec510 = {
         
     ]
  };
+ //UEC502 Digital Signal Processing
+var uec612 = {
+    name : 'UEC502 Digital Signal Processing',
+    code : 'UEC502',
+    credit : 4.5,
+    ltp : 'L-3 &nbsp;&nbsp;&nbsp; T-1 &nbsp;&nbsp;&nbsp; P-2',
+    handout : 'https://drive.google.com/open?id=17Z7VkqsaLtpCLauAcC_PypzjjDg2whzO',
+    marks : [
+        { num : 1, test: 'MST', mark: 25},
+        { num : 2, test: 'EST', mark: 35},
+        { num : 3, test: 'Lab/Quiz/Tut', mark: 40}
+    ],
+    note : [
+        { title : '', link : ''},
+        { title : '', link : ''},
+        { title : '', link : ''},
+        { title : '', link : ''},
+        { title : '', link : ''},
+        { title : '', link : ''},
+        { title : '', link : ''},
+        { title : '', link : ''},
+        { title : '', link : ''},
+        { title : '', link : ''},
+        { title : '', link : ''},
+        { title : '', link : ''},
+        { title : '', link : ''},
+        { title : '', link : ''},
+        { title : '', link : ''},
+        { title : '', link : ''},
+        { title : '', link : ''}
+    ],
+    sheet : [
+        { title : 'Tutorial Sheet 1', link : 'https://drive.google.com/open?id=1VK64l0RVGCsrerU_9KvdG5sOfoFDBf8j', sollink : '', status : 'NAV'},
+        { title : 'Tutorial Sheet 2', link : 'https://drive.google.com/open?id=11ZlHfpGkWfvjrTBgou96rT_TNOCN54Tm', sollink : '', status : 'NAV'}
+    ],
  
+    lab : [
+        { title : 'Lab Objectives', link : 'https://drive.google.com/open?id=1lSDetaBRNca-UmvPXg14YZkGRvluybTn'},
+        { title : 'Lab 1-4', link : 'https://drive.google.com/open?id=1I2hlzdjqtU-tFpp4gfviOMEI3AY7ozq-'}
+ 
+    ],
+    paper : [
+        { title : '2018 (AUX)', link : 'https://drive.google.com/open?id=1wG9wZH8YBc__kIm0yFssiu3qTT4-gl0m'},
+        { title : '2017 EndSem', link : 'https://drive.google.com/open?id=1U0v5Cz3G1iyygTwoRinfVvEDS4f9N-c5'},
+        { title : '2017 EndSem (AUX)', link : 'https://drive.google.com/open?id=1zvVfhi1XTJe-xp88eU1ZXHCi132SsnjX'},
+        { title : '2016 EndSem', link : 'https://drive.google.com/open?id=1NIzx9zIpeBJUOQLBffkyhuLGln_368Om'},
+        { title : '2016 MidSem', link : 'https://drive.google.com/open?id=1r3kRnw6wYmdrBrj3vHjZVR88c_fdn4MF'}
+    ],
+    book : [
+        { title : '4th-Digital-Signal-Processing-Proakis-and-Manolakis', link : 'https://drive.google.com/open?id=10O-TMPxLjnFjuVVSMIgy2n51W5EP6Zra'},
+        
+    ]
+ };
