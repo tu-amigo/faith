@@ -184,3 +184,42 @@ var ucs406 = {
         { title : 'Hashing Notes', link : 'https://drive.google.com/open?id=1a_hr3Vw6Nx5IG52ucbIfSIiU5xnNVKMt'}
     ]
 };
+//UEC307 Electromagnetic Field Theory and Transmission Lines
+var uec307 = {
+    name : 'UEC307 Electromagnetic Field Theory and Transmission Lines ',
+    code : 'UEC307',
+    credit : 3.5,
+    ltp : 'L-3 &nbsp;&nbsp;&nbsp; T-1 &nbsp;&nbsp;&nbsp; P-0',
+    handout : 'https://drive.google.com/open?id=1wiLT0jrIpFnXltPvFXuz7QR4VgpunN5I',
+    marks : [
+        { num : 1, test: 'MST', mark: 30},
+        { num : 2, test: 'EST', mark: 45},
+        { num : 3, test: 'Lab/Quiz/Tut', mark: 25}
+    ],
+    slide : [
+        { title : '1 - Introduction', link : 'https://drive.google.com/open?id=1CAWmlM1HzVHmTrf1LmLmBo7wr_19eZpY'},
+        { title : '2 - Co-ordinate Conversion Sheet', link : 'https://drive.google.com/open?id=1kJDFkg6uRbMg4IkqmgiJ-UhFQLDzUwcL'},
+        { title : '3 - Dot Product of the Unit Vector of Different Coordinates', link : 'https://drive.google.com/open?id=1SsuOl2V2vWIgvVKwr7gkcgiFwFPskDtp'}
+        
+ 
+    ],
+    sheet : [
+        { title : 'Tutorial Sheet 1', link : 'https://drive.google.com/open?id=1DJGfEyPG2QhmwUE9BP79KZ1NMUUn60EQ'},
+        { title : 'Tutorial Sheet 2', link : 'https://drive.google.com/open?id=1cIIMJ2K8Lsmz0XTLJ89hKCTHWbWfNqDB'},
+        { title : 'Tutorial Sheet 3', link : 'https://drive.google.com/open?id=1TnSaH9LkqS5mL8QLck84vZ5NDHaZlcyM'},
+        { title : 'Tutorial Sheet 4', link : 'https://drive.google.com/open?id=1cIIMJ2K8Lsmz0XTLJ89hKCTHWbWfNqDB'},
+    ],
+    sol : [
+        { title : 'Tutorial Sheet 1', link : 'https://drive.google.com/open?id=1DJGfEyPG2QhmwUE9BP79KZ1NMUUn60EQ'},
+        { title : 'Tutorial Sheet 2', link : 'https://drive.google.com/open?id=1cIIMJ2K8Lsmz0XTLJ89hKCTHWbWfNqDB'},
+        { title : 'Tutorial Sheet 3', link : 'https://drive.google.com/open?id=1TnSaH9LkqS5mL8QLck84vZ5NDHaZlcyM'},
+        { title : 'Tutorial Sheet 4', link : 'https://drive.google.com/open?id=1cIIMJ2K8Lsmz0XTLJ89hKCTHWbWfNqDB'},
+    ],
+   
+    paper : [
+        { title : '2017 EndSem', link : 'https://drive.google.com/open?id=1mjpy-RuMlrHYva21JuLRRF13RAecJkMO'},
+        { title : '2016 EndSem', link : 'https://drive.google.com/open?id=1N7_qU3cYk5bg7Ugkz9I1gBXh1ozlxb2i'},
+        { title : '2017 MidSem', link : 'https://drive.google.com/open?id=1YW1NOiJ-xIqSYRyuWZ2i7oOMz345m_je'},
+        { title : '2016 MidSem', link : 'https://drive.google.com/open?id=1lsh2bV6SRGwgW0rEvk5jNYvrrq-jnJPk'}
+    ],
+ };
