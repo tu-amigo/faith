@@ -204,18 +204,12 @@ var uec307 = {
  
     ],
     sheet : [
-        { title : 'Tutorial Sheet 1', link : 'https://drive.google.com/open?id=1nl8oXaxjXQgeXoHoifFA-NPdyPCXriwN'},
-        { title : 'Tutorial Sheet 2', link : 'https://drive.google.com/open?id=1E_XRdA_7qoZ5uLyw6fbaJ1eErkPVFY5Y'},
-        { title : 'Tutorial Sheet 3', link : 'https://drive.google.com/open?id=1rh_No5Aq8oHhgcU8CBqLFhHTIHyXDtIz'},
-        { title : 'Tutorial Sheet 4', link : 'https://drive.google.com/open?id=1EmFWJKRKAYcdo8Jbuxvgsu2cUJ9bRemH'}
+        { title : 'Tutorial Sheet 1', link : 'https://drive.google.com/open?id=1nl8oXaxjXQgeXoHoifFA-NPdyPCXriwN', sollink : '', status : 'NAV'},
+        { title : 'Tutorial Sheet 2', link : 'https://drive.google.com/open?id=1E_XRdA_7qoZ5uLyw6fbaJ1eErkPVFY5Y', sollink : '', status : 'NAV'},
+        { title : 'Tutorial Sheet 3', link : 'https://drive.google.com/open?id=1rh_No5Aq8oHhgcU8CBqLFhHTIHyXDtIz', sollink : '', status : 'NAV'},
+        { title : 'Tutorial Sheet 4', link : 'https://drive.google.com/open?id=1EmFWJKRKAYcdo8Jbuxvgsu2cUJ9bRemH', sollink : 'https://drive.google.com/open?id=1b_2NuUj2tXR_QK7_UpiIN-nsk35MUner', status : 'AV'}
     ],
-    tutsol : [
-        { title : 'Tutorial Sheet 1', link : ''},
-        { title : 'Tutorial Sheet 2', link : ''},
-        { title : 'Tutorial Sheet 3-4', link : 'https://drive.google.com/open?id=1b_2NuUj2tXR_QK7_UpiIN-nsk35MUner'}
-       
-    ],
-   
+    
     paper : [
         { title : '2018 EndSem (AUX)', link : 'https://drive.google.com/open?id=1LabT2CAoAZhso5bTsH58A1uYyZdUaBIW'},
         { title : '2017 EndSem', link : 'https://drive.google.com/open?id=14rP2M-O1qKhDZFBs74iqkycvAnuSDYA9'},

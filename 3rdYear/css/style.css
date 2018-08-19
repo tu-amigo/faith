@@ -107,6 +107,9 @@ section{
 .subject h4{
     color: #4f4f4f;
 }
+a[data-status="NAV"] {
+    display: none;
+}
 /*****************************************************************/
 /* Media Query Phone 
 *********************************/
