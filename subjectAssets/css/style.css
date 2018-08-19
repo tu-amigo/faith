@@ -75,7 +75,9 @@ section{
 .d-none{
     display: none;
 }
-
+.animated{
+    animation-duration: 2s;
+}
 /* Subject Page - Generalized
 *********************************/
 .subject .coursehandout .row{
