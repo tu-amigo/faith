@@ -267,7 +267,7 @@ var uec510 = {
     ]
  };
  //UEC502 Digital Signal Processing
-var uec612 = {
+var uec502 = {
     name : 'UEC502 Digital Signal Processing',
     code : 'UEC502',
     credit : 4.5,
