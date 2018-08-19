@@ -233,26 +233,37 @@ var uec510 = {
         { num : 3, test: 'Lab/Quiz/Tut', mark: 25}
     ],
     slide : [
-        { title : '', link : ''},
-        { title : '', link : ''},
-        { title : '', link : ''}
-        
- 
+        { title : 'Introduction', link : 'https://drive.google.com/open?id=1HoEgw7-naXUi1WBXPXMdiDCtEUoNxAc2'},
+        { title : 'Classification', link : 'https://drive.google.com/open?id=1HUxEz6a0gRodYeNXpQFRDHOx1h2GpVw8'},
+        { title : 'Performance', link : 'https://drive.google.com/open?id=1cRSU39hozWmacuy3tUxfPkDSmLUzw5pk'},
+        { title : 'MIPS', link : 'https://drive.google.com/open?id=1r4lvf7RHDbhjKuK-4NAL03vo75Z2Hfoy'},
+        { title : 'Types and Size of Operands', link : 'https://drive.google.com/open?id=1-KxqkIJrOvwBB_a9E0YXCKb1y4pkZ9fm'},
+        { title : 'Pipelining DLX', link : 'https://drive.google.com/open?id=12uqHq6zubg_xgBORY8l0VuUHI-hEYL0n'},
+        { title : 'Instruction Set Architecture', link : 'https://drive.google.com/open?id=15j_ULCwVQ050DiwLQKterYO0-qYScm6p'},
+        { title : 'Instruction Level Parallelism', link : 'https://drive.google.com/open?id=1UGs2G6wNTQElwBbCqFFmpuR8tTcoykQg'},
+        { title : 'Basic Structures', link : 'https://drive.google.com/open?id=1zSpyd_iS8iRo4HC5TCHpT-eLdH1h7Tww'},
+        { title : 'DLX Architecture', link : 'https://drive.google.com/open?id=16bckCIfWBSgoQCgfxsLeIS8l9Kwd9jw0'},
+        { title : 'Loop Level Parallelism', link : 'https://drive.google.com/open?id=1gTk1KBj7eGlHRIb9wO9gSsKB1L1WHyWS'}
+    ],
+    note : [
+        { title : 'Chapter 1 :- Formulas', link : 'https://drive.google.com/open?id=1BBlFxcnijlmQQlijGltJs6RlgDEvJBqH'}
+       
     ],
     sheet : [
-        { title : 'Tutorial Sheet 1', link : '', sollink : '', status : 'AV'},
-        { title : 'Tutorial Sheet 2', link : '', sollink : '', status : 'AV'}
+        { title : 'Tutorial Sheet 1', link : 'https://drive.google.com/open?id=1VZjtA9yxDiazdtneV93Zd2RZooFys5qF', sollink : '', status : 'AV'},
+        { title : 'Tutorial Sheet 2', link : 'https://drive.google.com/open?id=1GSkC7p5OTeFLh9ZS3iVK7r8WAXjiF-_c', sollink : '', status : 'AV'}
       
     ],
     
     paper : [
-        { title : '2018 EndSem (AUX)', link : 'https://drive.google.com/open?id=1LabT2CAoAZhso5bTsH58A1uYyZdUaBIW'},
-        { title : '2017 EndSem', link : 'https://drive.google.com/open?id=14rP2M-O1qKhDZFBs74iqkycvAnuSDYA9'},
-        { title : '2017 MidSem', link : 'https://drive.google.com/open?id=14ZMM2msHQVfhJVtJynVGJ3-VN_RVEmHM'}
+        { title : '2017 EndSem (AUX)', link : 'https://drive.google.com/open?id=1YwZgWiALZO-DfsAPJ3PNd71nqhxC3SZ0'},
+        { title : '2017 EndSem (AUX)', link : 'https://drive.google.com/open?id=10hZJ4WEy1IcCniIZD8xrpc3noFEMbTUE'},
+        { title : '2016 EndSem ', link : 'https://drive.google.com/open?id=1t-88b3_rQw4ZiUHi3tct-ZRBF85lgmoP'},
+        { title : '2016 EndSem (AUX)', link : 'https://drive.google.com/open?id=1LbMAVukpSvZWQsS6e5EJ5SFNz1E6l5hP'}
     ],
     book : [
-        { title : 'Elements of Electromagnetics by Sadiku', link : 'https://drive.google.com/open?id=1to1TvKvGbGSs1sujQJSIJOt51LIBWfAF'},
-        { title : 'Engineering Electromagnetics by W H Hyatt', link : 'https://drive.google.com/open?id=1YQNyjyjDi9UYPW1z9DyV5lBa2YHth7yJ'}
+        { title : 'Computeranization And Embedded Systems, Hamacher 6th Ed', link : 'https://drive.google.com/open?id=1865bTqsEp3Hder_JSs8bavLEJQX-h9PP'},
+        
     ]
  };
  
