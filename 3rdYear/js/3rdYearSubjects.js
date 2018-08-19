@@ -65,10 +65,10 @@ var uec401 = {
         { num : 3, test: 'Lab/Tut/Project', mark: 35}
     ],
     sheet : [
-        { title : 'Tutorial Sheet 1', link : 'https://drive.google.com/open?id=1MpVaEWtMlGWrZ7fdgzLFSfhbEzMeQYBU'},
-        { title : 'Tutorial Sheet 2', link : 'https://drive.google.com/open?id=1uI6MpO-thcG8AmnatsHD8r7mvwNmoppy'},
-        { title : 'Tutorial Sheet 3', link : 'https://drive.google.com/open?id=1-pDKJ0Ocs9HhAcWA69uyFCLKw5PtF86x'},
-        { title : 'Tutorial Sheet 4', link : 'https://drive.google.com/open?id=1BeTWDO2989kiRfgN5sJrbL4erybu2oPO'}
+        { title : 'Tutorial Sheet 1', link : 'https://drive.google.com/open?id=1MpVaEWtMlGWrZ7fdgzLFSfhbEzMeQYBU', sollink : '', status : 'NAV'},
+        { title : 'Tutorial Sheet 2', link : 'https://drive.google.com/open?id=1uI6MpO-thcG8AmnatsHD8r7mvwNmoppy', sollink : '', status : 'NAV'},
+        { title : 'Tutorial Sheet 3', link : 'https://drive.google.com/open?id=1-pDKJ0Ocs9HhAcWA69uyFCLKw5PtF86x', sollink : '', status : 'NAV'},
+        { title : 'Tutorial Sheet 4', link : 'https://drive.google.com/open?id=1BeTWDO2989kiRfgN5sJrbL4erybu2oPO', sollink : '', status : 'NAV'}
     ],
     lab : [
         { title : 'Amplitude Modulation', link : 'https://drive.google.com/open?id=1iYb7RPxEo1Z5TzZ5q-Xm8FxBJLI1jUtn'}
@@ -131,9 +131,9 @@ var uec612 = {
 
    ],
    sheet : [
-       { title : 'Tutorial Sheet 1', link : 'https://drive.google.com/open?id=1DJGfEyPG2QhmwUE9BP79KZ1NMUUn60EQ'},
-       { title : 'Tutorial Sheet 2', link : 'https://drive.google.com/open?id=1cIIMJ2K8Lsmz0XTLJ89hKCTHWbWfNqDB'},
-       { title : 'Tutorial Sheet 3', link : 'https://drive.google.com/open?id=1TnSaH9LkqS5mL8QLck84vZ5NDHaZlcyM'},
+       { title : 'Tutorial Sheet 1', link : 'https://drive.google.com/open?id=1DJGfEyPG2QhmwUE9BP79KZ1NMUUn60EQ', sollink : '', status : 'NAV'},
+       { title : 'Tutorial Sheet 2', link : 'https://drive.google.com/open?id=1cIIMJ2K8Lsmz0XTLJ89hKCTHWbWfNqDB', sollink : '', status : 'NAV'},
+       { title : 'Tutorial Sheet 3', link : 'https://drive.google.com/open?id=1TnSaH9LkqS5mL8QLck84vZ5NDHaZlcyM', sollink : '', status : 'NAV'}
    ],
 
    lab : [
