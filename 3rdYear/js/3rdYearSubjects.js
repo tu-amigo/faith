@@ -65,7 +65,7 @@ var uec401 = {
         { num : 3, test: 'Lab/Tut/Project', mark: 35}
     ],
     sheet : [
-        { title : 'Tutorial Sheet 1', link : 'https://drive.google.com/open?id=1MpVaEWtMlGWrZ7fdgzLFSfhbEzMeQYBU', sollink : '', status : 'NAV'},
+        { title : 'Tutorial Sheet 1', link : 'https://drive.google.com/open?id=1MpVaEWtMlGWrZ7fdgzLFSfhbEzMeQYBU', sollink : 'https://drive.google.com/open?id=17GmjKRnpU71hq6uB_z0bkMlXboHfdi7V', status : 'AV'},
         { title : 'Tutorial Sheet 2', link : 'https://drive.google.com/open?id=1uI6MpO-thcG8AmnatsHD8r7mvwNmoppy', sollink : '', status : 'NAV'},
         { title : 'Tutorial Sheet 3', link : 'https://drive.google.com/open?id=1-pDKJ0Ocs9HhAcWA69uyFCLKw5PtF86x', sollink : '', status : 'NAV'},
         { title : 'Tutorial Sheet 4', link : 'https://drive.google.com/open?id=1BeTWDO2989kiRfgN5sJrbL4erybu2oPO', sollink : '', status : 'NAV'}
@@ -250,8 +250,8 @@ var uec510 = {
        
     ],
     sheet : [
-        { title : 'Tutorial Sheet 1', link : 'https://drive.google.com/open?id=1VZjtA9yxDiazdtneV93Zd2RZooFys5qF', sollink : '', status : 'AV'},
-        { title : 'Tutorial Sheet 2', link : 'https://drive.google.com/open?id=1GSkC7p5OTeFLh9ZS3iVK7r8WAXjiF-_c', sollink : '', status : 'AV'}
+        { title : 'Tutorial Sheet 1', link : 'https://drive.google.com/open?id=1VZjtA9yxDiazdtneV93Zd2RZooFys5qF', sollink : 'https://drive.google.com/open?id=1ndcyWVG80H9NSSKvwkz8TFlzqOQLs4Lp', status : 'AV'},
+        { title : 'Tutorial Sheet 2', link : 'https://drive.google.com/open?id=1GSkC7p5OTeFLh9ZS3iVK7r8WAXjiF-_c', sollink : 'https://drive.google.com/open?id=1ndcyWVG80H9NSSKvwkz8TFlzqOQLs4Lp', status : 'AV'}
       
     ],
     
