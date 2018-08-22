@@ -32,7 +32,7 @@ var ucs303 = {
         { title : 'Alternative Slides 2', link : 'https://drive.google.com/open?id=1AVs-YK9x7afE1ns1Yhmo4LvSZmuqyFhc'},
     ],
     lab : [
-        { title : 'Lab Assignment 1 to 5', link : 'https://drive.google.com/open?id=1RA5mlGHd1aI0x1BUrENX05CKDg2qRWFT'},
+        { title : 'Lab Assignment 1 to 5', link : 'https://drive.google.com/open?id=13nIzfhgdkHQkozOaI7S0fdL6a1iPLW8x'},
         { title : 'Lab Assignment 6 to 7', link : 'https://drive.google.com/open?id=1Ua0O3kmWo89R42kyNBLJN5y1lbYexU5W'},
         { title : 'Lab Assignment 8 to 10', link : 'https://drive.google.com/open?id=1c_cNX1hTJRw2JK2HfHIgsHl7IRVJRI4P'},
         { title : 'Lab Assignment 11 to 15', link : 'https://drive.google.com/open?id=1A1BD44CKsz8FSjAXPmYygNJ7P3zC8gxZ'}
