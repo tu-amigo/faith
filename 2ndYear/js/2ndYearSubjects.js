@@ -14,7 +14,12 @@ var ues012 = {
         { num : 3, test: 'Lab/Quiz/Project', mark: 40}
     ],
     sheet : [
-        { title : 'Title', link : '', sollink : '', status : 'NAV'},
+        { title : 'Tutorial Sheet 1-2', link : '', sollink : '', status : 'NAV'},
+        { title : 'Tutorial Sheet 3-4', link : '', sollink : '', status : 'NAV'},
+        { title : 'Tutorial Sheet 5', link : '', sollink : '', status : 'NAV'},
+        { title : 'Tutorial Sheet 6', link : '', sollink : '', status : 'NAV'},
+        { title : 'Tutorial Sheet 7', link : '', sollink : '', status : 'NAV'},
+        { title : 'Tutorial Sheet 8-9', link : '', sollink : '', status : 'NAV'}
     ],
     slide : [
         { title : 'Title', link : 'url'}
