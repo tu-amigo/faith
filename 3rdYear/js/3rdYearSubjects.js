@@ -200,11 +200,13 @@ var uec307 = {
         { title : '1 - Introduction', link : 'https://drive.google.com/open?id=1CAWmlM1HzVHmTrf1LmLmBo7wr_19eZpY'},
         { title : '2 - Co-ordinate Conversion Sheet', link : 'https://drive.google.com/open?id=1ifyRt0X1kZiDJAon2o8YJEYjbOOAZl4g'},
         { title : '3 - Dot Product of the Unit Vector of Different Coordinates', link : 'https://drive.google.com/open?id=1IsKmNBPQYHhZD-S8-RxbwWOSRSyVsP5S'}
-        
- 
     ],
+    note : [
+            { title : 'Notes 1', link : 'https://drive.google.com/open?id=1lZ0Fm4uwS_cRwRXEp2EeKLZJdOu2ttLw'}
+         
+        ],
     sheet : [
-        { title : 'Tutorial Sheet 1', link : 'https://drive.google.com/open?id=1nl8oXaxjXQgeXoHoifFA-NPdyPCXriwN', sollink : '', status : 'NAV'},
+        { title : 'Tutorial Sheet 1', link : 'https://drive.google.com/open?id=1nl8oXaxjXQgeXoHoifFA-NPdyPCXriwN', sollink : 'https://drive.google.com/open?id=1shcZIx76WDwnOW8GwubMGSmPPB7N49Kp', status : 'AV'},
         { title : 'Tutorial Sheet 2', link : 'https://drive.google.com/open?id=1E_XRdA_7qoZ5uLyw6fbaJ1eErkPVFY5Y', sollink : '', status : 'NAV'},
         { title : 'Tutorial Sheet 3', link : 'https://drive.google.com/open?id=1rh_No5Aq8oHhgcU8CBqLFhHTIHyXDtIz', sollink : 'https://drive.google.com/open?id=1b_2NuUj2tXR_QK7_UpiIN-nsk35MUner', status : 'AV'},
         { title : 'Tutorial Sheet 4', link : 'https://drive.google.com/open?id=1EmFWJKRKAYcdo8Jbuxvgsu2cUJ9bRemH', sollink : 'https://drive.google.com/open?id=1b_2NuUj2tXR_QK7_UpiIN-nsk35MUner', status : 'AV'}
