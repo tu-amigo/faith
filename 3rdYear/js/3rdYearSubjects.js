@@ -14,6 +14,11 @@ var ucs303 = {
         { num : 3, test: 'Lab/Quiz', mark: 30}
     ],
     slide : [
+        { title : 'New Slide Set 1-3', link : 'https://drive.google.com/open?id=1jF3D0C6Hn79nnA375MyF1MQnNLe_SE6N'},
+        { title : 'New Slide Set 4-6', link : 'https://drive.google.com/open?id=1FmjIQYA95y9trtCNdC4uNUm_jPeGHh5c'},
+        { title : 'New Slide Set 7-9', link : 'https://drive.google.com/open?id=1BGg9PkzWSiPZJxruo4NEg-UrhQu-Kx5r'},
+        { title : 'New Slide Set 11', link : 'https://drive.google.com/open?id=1KcN5i_1yZYOGUQTIBHUE5wAvRxKJ5Y2w'},
+        { title : 'New Slide Set 12', link : 'https://drive.google.com/open?id=1QE7WtJOZdfLQkvsQE6cQJmmMe-gSIXM6'},
         { title : 'Slides By Galvin - 1', link : 'https://drive.google.com/open?id=1WiCabGCYp6kRdbH7TGXDYSsUH6A15dqT'},
         { title : 'Slides By Galvin - 2', link : 'https://drive.google.com/open?id=1wxfuEOJhKI_O9ZZs0nOVHpJ_GUWEYV_T'},
         { title : 'Slides By Galvin - 3', link : 'https://drive.google.com/open?id=1CIEokptsgl8AkHMUqDtIG7JwsHRAvrE7'},
