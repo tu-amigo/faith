@@ -367,7 +367,7 @@ var uec404 = {
     book : [
         { title : 'Oppenheim - Signals and Systems', link : 'https://drive.google.com/open?id=1qLPaoZeakr4J0WyXRoegNiyWjEtjN5o2'},
         { title : 'Lathi - Signal Processing and Linear Systems', link : 'https://drive.google.com/open?id=1INAKPKepn3fgWK8lirQuzFW0swEEM-2W'},
-        { title : 'Getting Started with MATLAB ', link : 'url'}
+        { title : 'Getting Started with MATLAB ', link : 'https://drive.google.com/open?id=1d1wyLaUHiLWKDj0gcA-DTy1lV71lVhYm'}
     ],
     note : [
         { title : 'Title', link : 'url'}
