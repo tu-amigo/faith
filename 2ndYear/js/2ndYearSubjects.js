@@ -14,8 +14,8 @@ var ues012 = {
         { num : 3, test: 'Lab/Quiz/Project', mark: 40}
     ],
     sheet : [
-        { title : 'Tutorial Sheet 1-2', link : 'https://drive.google.com/open?id=1sKPLrT9Qn4RHkZIqQ-RYOlDS0M2h3ZM7', sollink : '', status : 'NAV'},
-        { title : 'Tutorial Sheet 3-4', link : 'https://drive.google.com/open?id=1IWdyzFlJaTYU_87Ya64y8j50_HIbl_D7', sollink : '', status : 'NAV'},
+        { title : 'Tutorial Sheet 1-2', link : 'https://drive.google.com/open?id=1sKPLrT9Qn4RHkZIqQ-RYOlDS0M2h3ZM7', sollink : 'https://drive.google.com/open?id=1tIScv4-ANmocaJ7DNDxshvy6FVH5v187', status : 'AV'},
+        { title : 'Tutorial Sheet 3-4', link : 'https://drive.google.com/open?id=1IWdyzFlJaTYU_87Ya64y8j50_HIbl_D7', sollink : 'https://drive.google.com/open?id=1tIScv4-ANmocaJ7DNDxshvy6FVH5v187', status : 'AV'},
         { title : 'Tutorial Sheet 5', link : 'https://drive.google.com/open?id=1EkIKA0Trqr76a2JkCIcILRo4DHKv-uXb', sollink : '', status : 'NAV'},
         { title : 'Tutorial Sheet 6', link : 'https://drive.google.com/open?id=1ZECUX4iAjUeMEVo1ArWC6WwjtuAfEeQ1', sollink : '', status : 'NAV'},
         { title : 'Tutorial Sheet 7', link : 'https://drive.google.com/open?id=16jDUuIbWjy-1FV4oLqxUy87M7ODOplLJ', sollink : '', status : 'NAV'},
@@ -28,7 +28,7 @@ var ues012 = {
         { title : 'Title', link : 'url'}
     ],
     paper : [
-        { title : 'Title', link : 'url'}
+        { title : 'Last Year Quiz', link : 'https://drive.google.com/open?id=1BdnmiO6_613Yjldrdoz0r5anKZNj_oSy'}
     ],
     book : [
         { title : 'Title', link : 'url'}
@@ -37,6 +37,7 @@ var ues012 = {
         { title : 'Title', link : 'url'}
     ]
 };
+
 
 //UCS303 Operating Systems
 var ucs303 = {
@@ -94,3 +95,536 @@ var ucs303 = {
     ],
 };
 
+//UES010 Solids and Structures
+var ues010 = {
+    name : 'UES010 Solids and Structures',
+    code : 'UES010',
+    credit : 4.5,
+    ltp : 'L-3 &nbsp;&nbsp;&nbsp; T-1 &nbsp;&nbsp;&nbsp; P-2',
+    handout : 'https://drive.google.com/open?id=1JThBijug1o-StW4qg-_Ib4bKgVU0NKLF',
+    marks : [
+        { num : 1, test: 'MST', mark: 25},
+        { num : 2, test: 'EST', mark: 35},
+        { num : 3, test: 'Lab/Quiz/Project', mark: 40}
+    ],
+    sheet : [
+        { title : 'Title', link : 'url'}
+    ],
+    slide : [
+        { title : 'Title', link : 'url'}
+    ],
+    lab : [
+        { title : 'Title', link : 'url'}
+    ],
+    paper : [
+        { title : 'Title', link : 'url'}
+    ],
+    book : [
+        { title : 'Title', link : 'url'}
+    ],
+    note : [
+        { title : 'Title', link : 'url'}
+    ]
+};
+
+//UES011 Thermo-Fluids
+var ues011 = {
+    name : 'UES011 Thermo-Fluids',
+    code : 'UES011',
+    credit : 4.5,
+    ltp : 'L-3 &nbsp;&nbsp;&nbsp; T-1 &nbsp;&nbsp;&nbsp; P-2',
+    handout : 'https://drive.google.com/open?id=1SWKwNi6FLYMDyvY8VMqqmL8ldNUw9-Ba',
+    marks : [
+        { num : 1, test: 'MST', mark: 25},
+        { num : 2, test: 'EST', mark: 40},
+        { num : 3, test: 'Lab/Quiz', mark: 35}
+    ],
+    sheet : [
+        { title : 'Title', link : 'url'}
+    ],
+    slide : [
+        { title : 'Title', link : 'url'}
+    ],
+    lab : [
+        { title : 'Title', link : 'url'}
+    ],
+    paper : [
+        { title : 'Title', link : 'url'}
+    ],
+    book : [
+        { title : 'Title', link : 'url'}
+    ],
+    note : [
+        { title : 'Title', link : 'url'}
+    ]
+};
+
+
+//UTA002 Manufacturing Processes
+var uta002 = {
+    name : 'UTA002 Manufacturing Processes',
+    code : 'UTA002',
+    credit : 3.5,
+    ltp : 'L-2 &nbsp;&nbsp;&nbsp; T-0 &nbsp;&nbsp;&nbsp; P-3',
+    handout : 'https://drive.google.com/open?id=1eNMlt-UyErISY4OViztuzfK0OAwcv206',
+    marks : [
+        { num : 1, test: 'MST', mark: 0},
+        { num : 2, test: 'EST', mark: 0},
+        { num : 3, test: 'Lab/Quiz/Project', mark: 0}
+    ],
+    sheet : [
+        { title : 'Title', link : 'url'}
+    ],
+    slide : [
+        { title : 'Title', link : 'url'}
+    ],
+    lab : [
+        { title : 'Title', link : 'url'}
+    ],
+    paper : [
+        { title : 'Title', link : 'url'}
+    ],
+    book : [
+        { title : 'Title', link : 'url'}
+    ],
+    note : [
+        { title : 'Title', link : 'url'}
+    ]
+};
+
+//UMA007 Numerical Analysis
+var uma007 = {
+    name : 'UMA007 Numerical Analysis',
+    code : 'UMA007',
+    credit : 4.5,
+    ltp : 'L-3 &nbsp;&nbsp;&nbsp; T-1 &nbsp;&nbsp;&nbsp; P-2',
+    handout : 'https://sites.google.com/site/nummaths/policies',
+    marks : [
+        { num : 1, test: 'MST', mark: 25},
+        { num : 2, test: 'EST', mark: 40},
+        { num : 3, test: 'Lab/Quiz', mark: 35}
+    ],
+    sheet : [
+        { title : 'Tutorial Sheet 1', link : 'https://drive.google.com/open?id=1BtyNDPlCLv7HTqtJAN6WFMF28IEe0jTz'},
+        { title : 'Tutorial Sheet 2', link : 'https://drive.google.com/open?id=1f9piKeV0tpIq4OtwF8F-03hxwVWvwzPo'},
+        { title : 'Tutorial Sheet 3', link : 'https://drive.google.com/open?id=1w4WjbHxiBBwX84_uDrZlPgTlGeBpBgqA'},
+        { title : 'Tutorial Sheet 4', link : 'https://drive.google.com/open?id=1BmBgEOUFjwWclQZvB-eu9uvkOoGMX51X'}
+    ],
+    lab : [
+        { title : 'Title', link : 'url'}
+    ],
+    paper : [
+        { title : 'Title', link : 'url'}
+    ],
+    book : [
+        { title : 'Title', link : 'url'}
+    ],
+    note : [
+        { title : 'Title', link : 'url'}
+    ]
+};
+
+//UMA031 Optimization Techniques
+var uma031 = {
+    name : 'UMA031 Optimization Techniques',
+    code : 'UMA031',
+    credit : 3.5,
+    ltp : 'L-3 &nbsp;&nbsp;&nbsp; T-1 &nbsp;&nbsp;&nbsp; P-0',
+    handout : 'https://drive.google.com/open?id=1Iei59PA69ukWozwFD_znBjDU_I_3ypVI',
+    marks : [
+        { num : 1, test: 'MST', mark: 30},
+        { num : 2, test: 'EST', mark: 45},
+        { num : 3, test: 'Tutorial Tests', mark: 25}
+    ],
+    sheet : [
+        { title : 'Title', link : 'url'}
+    ],
+    slide : [
+        { title : 'Title', link : 'url'}
+    ],
+    lab : [
+        { title : 'Title', link : 'url'}
+    ],
+    paper : [
+        { title : 'Title', link : 'url'}
+    ],
+    book : [
+        { title : 'Title', link : 'url'}
+    ],
+    note : [
+        { title : 'Title', link : 'url'}
+    ]
+};
+
+//UEC404 Signals and Systems
+var uec404 = {
+    name : 'UEC404 Signals and Systems',
+    code : 'UEC404',
+    credit : 4.5,
+    ltp : 'L-3 &nbsp;&nbsp;&nbsp; T-1 &nbsp;&nbsp;&nbsp; P-2',
+    handout : 'url',
+    marks : [
+        { num : 1, test: 'MST', mark: 0},
+        { num : 2, test: 'EST', mark: 0},
+        { num : 3, test: 'Lab/Quiz/Project', mark: 0}
+    ],
+    sheet : [
+        { title : 'Title', link : 'url'}
+    ],
+    slide : [
+        { title : 'Title', link : 'url'}
+    ],
+    lab : [
+        { title : 'Title', link : 'url'}
+    ],
+    paper : [
+        { title : 'Title', link : 'url'}
+    ],
+    book : [
+        { title : 'Title', link : 'url'}
+    ],
+    note : [
+        { title : 'Title', link : 'url'}
+    ]
+};
+//Full Subject Name
+var SubjectCode_Small_letters = {
+    name : '',
+    code : '',
+    credit : 0,
+    ltp : 'L- &nbsp;&nbsp;&nbsp; T- &nbsp;&nbsp;&nbsp; P-',
+    handout : 'url',
+    marks : [
+        { num : 1, test: 'MST', mark: 0},
+        { num : 2, test: 'EST', mark: 0},
+        { num : 3, test: 'Lab/Quiz/Project', mark: 0}
+    ],
+    sheet : [
+        { title : 'Title', link : 'url'}
+    ],
+    slide : [
+        { title : 'Title', link : 'url'}
+    ],
+    lab : [
+        { title : 'Title', link : 'url'}
+    ],
+    paper : [
+        { title : 'Title', link : 'url'}
+    ],
+    book : [
+        { title : 'Title', link : 'url'}
+    ],
+    note : [
+        { title : 'Title', link : 'url'}
+    ]
+};
+//Full Subject Name
+var SubjectCode_Small_letters = {
+    name : '',
+    code : '',
+    credit : 0,
+    ltp : 'L- &nbsp;&nbsp;&nbsp; T- &nbsp;&nbsp;&nbsp; P-',
+    handout : 'url',
+    marks : [
+        { num : 1, test: 'MST', mark: 0},
+        { num : 2, test: 'EST', mark: 0},
+        { num : 3, test: 'Lab/Quiz/Project', mark: 0}
+    ],
+    sheet : [
+        { title : 'Title', link : 'url'}
+    ],
+    slide : [
+        { title : 'Title', link : 'url'}
+    ],
+    lab : [
+        { title : 'Title', link : 'url'}
+    ],
+    paper : [
+        { title : 'Title', link : 'url'}
+    ],
+    book : [
+        { title : 'Title', link : 'url'}
+    ],
+    note : [
+        { title : 'Title', link : 'url'}
+    ]
+};
+//Full Subject Name
+var SubjectCode_Small_letters = {
+    name : '',
+    code : '',
+    credit : 0,
+    ltp : 'L- &nbsp;&nbsp;&nbsp; T- &nbsp;&nbsp;&nbsp; P-',
+    handout : 'url',
+    marks : [
+        { num : 1, test: 'MST', mark: 0},
+        { num : 2, test: 'EST', mark: 0},
+        { num : 3, test: 'Lab/Quiz/Project', mark: 0}
+    ],
+    sheet : [
+        { title : 'Title', link : 'url'}
+    ],
+    slide : [
+        { title : 'Title', link : 'url'}
+    ],
+    lab : [
+        { title : 'Title', link : 'url'}
+    ],
+    paper : [
+        { title : 'Title', link : 'url'}
+    ],
+    book : [
+        { title : 'Title', link : 'url'}
+    ],
+    note : [
+        { title : 'Title', link : 'url'}
+    ]
+};
+//Full Subject Name
+var SubjectCode_Small_letters = {
+    name : '',
+    code : '',
+    credit : 0,
+    ltp : 'L- &nbsp;&nbsp;&nbsp; T- &nbsp;&nbsp;&nbsp; P-',
+    handout : 'url',
+    marks : [
+        { num : 1, test: 'MST', mark: 0},
+        { num : 2, test: 'EST', mark: 0},
+        { num : 3, test: 'Lab/Quiz/Project', mark: 0}
+    ],
+    sheet : [
+        { title : 'Title', link : 'url'}
+    ],
+    slide : [
+        { title : 'Title', link : 'url'}
+    ],
+    lab : [
+        { title : 'Title', link : 'url'}
+    ],
+    paper : [
+        { title : 'Title', link : 'url'}
+    ],
+    book : [
+        { title : 'Title', link : 'url'}
+    ],
+    note : [
+        { title : 'Title', link : 'url'}
+    ]
+};
+//Full Subject Name
+var SubjectCode_Small_letters = {
+    name : '',
+    code : '',
+    credit : 0,
+    ltp : 'L- &nbsp;&nbsp;&nbsp; T- &nbsp;&nbsp;&nbsp; P-',
+    handout : 'url',
+    marks : [
+        { num : 1, test: 'MST', mark: 0},
+        { num : 2, test: 'EST', mark: 0},
+        { num : 3, test: 'Lab/Quiz/Project', mark: 0}
+    ],
+    sheet : [
+        { title : 'Title', link : 'url'}
+    ],
+    slide : [
+        { title : 'Title', link : 'url'}
+    ],
+    lab : [
+        { title : 'Title', link : 'url'}
+    ],
+    paper : [
+        { title : 'Title', link : 'url'}
+    ],
+    book : [
+        { title : 'Title', link : 'url'}
+    ],
+    note : [
+        { title : 'Title', link : 'url'}
+    ]
+};
+//Full Subject Name
+var SubjectCode_Small_letters = {
+    name : '',
+    code : '',
+    credit : 0,
+    ltp : 'L- &nbsp;&nbsp;&nbsp; T- &nbsp;&nbsp;&nbsp; P-',
+    handout : 'url',
+    marks : [
+        { num : 1, test: 'MST', mark: 0},
+        { num : 2, test: 'EST', mark: 0},
+        { num : 3, test: 'Lab/Quiz/Project', mark: 0}
+    ],
+    sheet : [
+        { title : 'Title', link : 'url'}
+    ],
+    slide : [
+        { title : 'Title', link : 'url'}
+    ],
+    lab : [
+        { title : 'Title', link : 'url'}
+    ],
+    paper : [
+        { title : 'Title', link : 'url'}
+    ],
+    book : [
+        { title : 'Title', link : 'url'}
+    ],
+    note : [
+        { title : 'Title', link : 'url'}
+    ]
+};
+//Full Subject Name
+var SubjectCode_Small_letters = {
+    name : '',
+    code : '',
+    credit : 0,
+    ltp : 'L- &nbsp;&nbsp;&nbsp; T- &nbsp;&nbsp;&nbsp; P-',
+    handout : 'url',
+    marks : [
+        { num : 1, test: 'MST', mark: 0},
+        { num : 2, test: 'EST', mark: 0},
+        { num : 3, test: 'Lab/Quiz/Project', mark: 0}
+    ],
+    sheet : [
+        { title : 'Title', link : 'url'}
+    ],
+    slide : [
+        { title : 'Title', link : 'url'}
+    ],
+    lab : [
+        { title : 'Title', link : 'url'}
+    ],
+    paper : [
+        { title : 'Title', link : 'url'}
+    ],
+    book : [
+        { title : 'Title', link : 'url'}
+    ],
+    note : [
+        { title : 'Title', link : 'url'}
+    ]
+};
+//Full Subject Name
+var SubjectCode_Small_letters = {
+    name : '',
+    code : '',
+    credit : 0,
+    ltp : 'L- &nbsp;&nbsp;&nbsp; T- &nbsp;&nbsp;&nbsp; P-',
+    handout : 'url',
+    marks : [
+        { num : 1, test: 'MST', mark: 0},
+        { num : 2, test: 'EST', mark: 0},
+        { num : 3, test: 'Lab/Quiz/Project', mark: 0}
+    ],
+    sheet : [
+        { title : 'Title', link : 'url'}
+    ],
+    slide : [
+        { title : 'Title', link : 'url'}
+    ],
+    lab : [
+        { title : 'Title', link : 'url'}
+    ],
+    paper : [
+        { title : 'Title', link : 'url'}
+    ],
+    book : [
+        { title : 'Title', link : 'url'}
+    ],
+    note : [
+        { title : 'Title', link : 'url'}
+    ]
+};
+//Full Subject Name
+var SubjectCode_Small_letters = {
+    name : '',
+    code : '',
+    credit : 0,
+    ltp : 'L- &nbsp;&nbsp;&nbsp; T- &nbsp;&nbsp;&nbsp; P-',
+    handout : 'url',
+    marks : [
+        { num : 1, test: 'MST', mark: 0},
+        { num : 2, test: 'EST', mark: 0},
+        { num : 3, test: 'Lab/Quiz/Project', mark: 0}
+    ],
+    sheet : [
+        { title : 'Title', link : 'url'}
+    ],
+    slide : [
+        { title : 'Title', link : 'url'}
+    ],
+    lab : [
+        { title : 'Title', link : 'url'}
+    ],
+    paper : [
+        { title : 'Title', link : 'url'}
+    ],
+    book : [
+        { title : 'Title', link : 'url'}
+    ],
+    note : [
+        { title : 'Title', link : 'url'}
+    ]
+};
+//Full Subject Name
+var SubjectCode_Small_letters = {
+    name : '',
+    code : '',
+    credit : 0,
+    ltp : 'L- &nbsp;&nbsp;&nbsp; T- &nbsp;&nbsp;&nbsp; P-',
+    handout : 'url',
+    marks : [
+        { num : 1, test: 'MST', mark: 0},
+        { num : 2, test: 'EST', mark: 0},
+        { num : 3, test: 'Lab/Quiz/Project', mark: 0}
+    ],
+    sheet : [
+        { title : 'Title', link : 'url'}
+    ],
+    slide : [
+        { title : 'Title', link : 'url'}
+    ],
+    lab : [
+        { title : 'Title', link : 'url'}
+    ],
+    paper : [
+        { title : 'Title', link : 'url'}
+    ],
+    book : [
+        { title : 'Title', link : 'url'}
+    ],
+    note : [
+        { title : 'Title', link : 'url'}
+    ]
+};
+//Full Subject Name
+var SubjectCode_Small_letters = {
+    name : '',
+    code : '',
+    credit : 0,
+    ltp : 'L- &nbsp;&nbsp;&nbsp; T- &nbsp;&nbsp;&nbsp; P-',
+    handout : 'url',
+    marks : [
+        { num : 1, test: 'MST', mark: 0},
+        { num : 2, test: 'EST', mark: 0},
+        { num : 3, test: 'Lab/Quiz/Project', mark: 0}
+    ],
+    sheet : [
+        { title : 'Title', link : 'url'}
+    ],
+    slide : [
+        { title : 'Title', link : 'url'}
+    ],
+    lab : [
+        { title : 'Title', link : 'url'}
+    ],
+    paper : [
+        { title : 'Title', link : 'url'}
+    ],
+    book : [
+        { title : 'Title', link : 'url'}
+    ],
+    note : [
+        { title : 'Title', link : 'url'}
+    ]
+};
