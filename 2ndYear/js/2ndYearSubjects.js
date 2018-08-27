@@ -129,13 +129,32 @@ var ues010 = {
         { num : 3, test: 'Lab/Quiz/Project', mark: 40}
     ],
     sheet : [
-        { title : 'Title', link : 'url'}
+        { title : 'Tutorial Sheet 1', link : 'https://drive.google.com/open?id=1bgHTEoLc7I7KhvsywGNok0iy6FiwG21j', sollink : '', status : 'NAV'},
+        { title : 'Tutorial Sheet 2', link : 'https://drive.google.com/open?id=1PVvghzAT6uUOMDXNKC9UA8EF93i8F3Ld', sollink : '', status : 'NAV'},
+        { title : 'Tutorial Sheet 3', link : 'https://drive.google.com/open?id=1mxZf9C43dpnQXHtpnufBgfxeDCmnozi2', sollink : '', status : 'NAV'},
+        { title : 'Tutorial Sheet 4', link : 'https://drive.google.com/open?id=1a7GlKU4pOWk1ujFgHARZuCMejEZP6aS8', sollink : '', status : 'NAV'},
+        { title : 'Tutorial Sheet 5', link : 'https://drive.google.com/open?id=1hAceKD-zYG5ptl623oPaddqeplKG0IvO', sollink : '', status : 'NAV'},
+        { title : 'Tutorial Sheet 6-10 ', link : 'https://drive.google.com/open?id=1BQlJgFIrzCItVBlEaBOfpP-3phLwMy0t', sollink : '', status : 'NAV'}
     ],
     slide : [
-        { title : 'Title', link : 'url'}
+        { title : 'Course Outline and Introduction', link : 'https://drive.google.com/open?id=1xnE10k19-gURkewKIvCqUApgieACRiym'},
+        { title : 'Stress & Strain', link : 'https://drive.google.com/open?id=1Uo5iwn1ExTx4WMGZ6BbWzrnfXl_aRrRk'},
+        { title : 'Stress & Strain (2)', link : 'https://drive.google.com/open?id=1zUBHapp1FZC1_BZ0b6CxEz9sQ6TjiY5S'},
+        { title : 'Torsion', link : 'https://drive.google.com/open?id=1ZWrxYzjhtMSw4eJDi-WYJjWdWYfdD3Jk'},
+        { title : 'Thermal Stresses', link : 'https://drive.google.com/open?id=1VjKnFM8-EkJLr9N7pypDFMz5YQ1nGpzR'},
+        { title : 'Thermal Stresses (2)', link : 'https://drive.google.com/open?id=17u5ZWpiHdzZOFxdxJYlpjtJlTHzB7gyP'},
+        { title : 'Stresses in Beams', link : 'https://drive.google.com/open?id=1WkONA1EOwKfcmUC7BaLf9qaqrGMTVtxF'},  
+        { title : 'Statically Indeterminate, Thermal and Torsion', link : 'https://drive.google.com/open?id=1qVkQ6yepj1AHeSg8WFz6ob3Buj5oFZN1'},
+        { title : 'Shear Stress in Beam', link : 'https://drive.google.com/open?id=1gH850BhHQVS-Vz7ST1ImmokwdRx-RqlI'},
+        { title : 'SFBMD', link : 'https://drive.google.com/open?id=1YyLbS_kDecAUmmeCOANvqTyWDLHxihT5'},
+        { title : 'Deflection in Beams', link : 'https://drive.google.com/open?id=1d34L1BxqYLgj3uZXZXbcKVnwWSZJU18i'},
+        { title : 'Columns', link : 'https://drive.google.com/open?id=11fTV_3BJE5_gn-ySgFJI6ENX7kIFuNyA'},
+        { title : 'Bending Stress in Beam', link : 'https://drive.google.com/open?id=15qeVyv45Nwcs6Nf_hJQcPeryzn25A8g1'},
+        { title : 'Bending of Beams', link : 'https://drive.google.com/open?id=1iu6qBO7Kdru2TbCx77XDE4ygk69D78cv'}
+
     ],
     lab : [
-        { title : 'Title', link : 'url'}
+        { title : 'Lab Manual', link : 'https://drive.google.com/open?id=1PKRq0DvHAZQSARh0o-4YIg1WPOddOgTh'}
     ],
     paper : [
         { title : 'Title', link : 'url'}
