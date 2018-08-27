@@ -261,7 +261,8 @@ var uec510 = {
     sheet : [
         { title : 'Tutorial Sheet 1', link : 'https://drive.google.com/open?id=1VZjtA9yxDiazdtneV93Zd2RZooFys5qF', sollink : 'https://drive.google.com/open?id=1ndcyWVG80H9NSSKvwkz8TFlzqOQLs4Lp', status : 'AV'},
         { title : 'Tutorial Sheet 2', link : 'https://drive.google.com/open?id=1GSkC7p5OTeFLh9ZS3iVK7r8WAXjiF-_c', sollink : 'https://drive.google.com/open?id=1ndcyWVG80H9NSSKvwkz8TFlzqOQLs4Lp', status : 'AV'}
-      
+        { title : 'Tutorial Sheet 3', link : 'https://drive.google.com/open?id=1ttKYkkGEEmASvQAx-2WDJydUZZdYPJt2', sollink : 'https://drive.google.com/open?id=1MnI1Hi8Ky28kBJ0DnPwqfuMrs1EyhjcI', status : 'AV'},
+    
     ],
     
     paper : [

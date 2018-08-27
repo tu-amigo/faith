@@ -337,13 +337,21 @@ var uec404 = {
         { title : 'Title', link : 'url'}
     ],
     lab : [
-        { title : 'Title', link : 'url'}
+        { title : '', link : ''}
+        { title : '', link : ''}
+        { title : '', link : ''}
+        { title : '', link : ''}
+        { title : '', link : ''}
+        { title : '', link : ''}
+        { title : '', link : ''}
+        { title : '', link : ''}
+
     ],
     paper : [
         { title : 'Title', link : 'url'}
     ],
     book : [
-        { title : 'Title', link : 'url'}
+        { title : 'Oppenheim - Signals and Systems', link : 'https://drive.google.com/open?id=1qLPaoZeakr4J0WyXRoegNiyWjEtjN5o2'}
     ],
     note : [
         { title : 'Title', link : 'url'}
