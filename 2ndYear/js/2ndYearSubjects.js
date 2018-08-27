@@ -37,3 +37,60 @@ var ues012 = {
         { title : 'Title', link : 'url'}
     ]
 };
+
+//UCS303 Operating Systems
+var ucs303 = {
+    name : 'UCS303 Operating Systems',
+    code : 'UCS303',
+    credit : 4,
+    ltp : 'L-3 &nbsp;&nbsp;&nbsp; T-0 &nbsp;&nbsp;&nbsp; P-2',
+    handout : 'https://drive.google.com/open?id=1OXjZC_T7Mu7cteG49bNVsfPJXtGbHPuD',
+    marks : [
+        { num : 1, test: 'MST', mark: 25},
+        { num : 2, test: 'EST', mark: 45},
+        { num : 3, test: 'Lab/Quiz', mark: 30}
+    ],
+    slide : [
+        { title : 'New Slide Set 1-3', link : 'https://drive.google.com/open?id=1jF3D0C6Hn79nnA375MyF1MQnNLe_SE6N'},
+        { title : 'New Slide Set 4-6', link : 'https://drive.google.com/open?id=1FmjIQYA95y9trtCNdC4uNUm_jPeGHh5c'},
+        { title : 'New Slide Set 7-9', link : 'https://drive.google.com/open?id=1BGg9PkzWSiPZJxruo4NEg-UrhQu-Kx5r'},
+        { title : 'New Slide Set 11', link : 'https://drive.google.com/open?id=1KcN5i_1yZYOGUQTIBHUE5wAvRxKJ5Y2w'},
+        { title : 'New Slide Set 12', link : 'https://drive.google.com/open?id=1QE7WtJOZdfLQkvsQE6cQJmmMe-gSIXM6'},
+        { title : 'Slides By Galvin - 1', link : 'https://drive.google.com/open?id=1WiCabGCYp6kRdbH7TGXDYSsUH6A15dqT'},
+        { title : 'Slides By Galvin - 2', link : 'https://drive.google.com/open?id=1wxfuEOJhKI_O9ZZs0nOVHpJ_GUWEYV_T'},
+        { title : 'Slides By Galvin - 3', link : 'https://drive.google.com/open?id=1CIEokptsgl8AkHMUqDtIG7JwsHRAvrE7'},
+        { title : 'Slides By Galvin - 4', link : 'https://drive.google.com/open?id=1ll0uTGgnTieFkRwKthd2M6vVAo7Z0m5K'},
+        { title : 'Slides By Galvin - 5', link : 'https://drive.google.com/open?id=1VEFmFtfioPGOENbGH-v4PcGVaiquMt7-'},
+        { title : 'Slides By Galvin - 6', link : 'https://drive.google.com/open?id=1dY0cswL2RfWbDE3V5kh_FlxeJHPdxBom'},
+        { title : 'Slides By Galvin - 7', link : 'https://drive.google.com/open?id=1ea-ncgrnENbBJnpz-MzB18IwUgpPWzKb'},
+        { title : 'Slides By Galvin - 8', link : 'https://drive.google.com/open?id=1ZrgWytmvTmEVoYPSid5E4Vpyw-M8UCZV'},
+        { title : 'Slides By Galvin - 9', link : 'https://drive.google.com/open?id=1j7Z1hBB-UaJcArB-5GgDpRHdZGtmD0qX'},
+        { title : 'Slides By Galvin - 10', link : 'https://drive.google.com/open?id=11HwADxKROcwblJ9KDJFV_y28IfnuYdsK'},
+        { title : 'Slides By Galvin - 11', link : 'https://drive.google.com/open?id=1kl_H5rrmaChuDydT9a3Zw3rQdSNSF68e'},
+        { title : 'Slides By Galvin - 12', link : 'https://drive.google.com/open?id=1RqC99-MmF1ujsYgm-1rgUhtsbhVVO8zo'},
+        { title : 'Slides By Galvin - 13', link : 'https://drive.google.com/open?id=1IlMCW5LZ8DtjO41IccNk3aVBzVcnEp3O'},
+        { title : 'Slides By Galvin - 14', link : 'https://drive.google.com/open?id=1p-d_TAkjswvbdeMXohufQNhdPHz1s0kC'},
+        { title : 'Alternative Slides 1', link : 'https://drive.google.com/open?id=1ZOs-OjiPY1yW3aoFzb8MKA8cPWOzRZbn'},
+        { title : 'Alternative Slides 2', link : 'https://drive.google.com/open?id=1AVs-YK9x7afE1ns1Yhmo4LvSZmuqyFhc'},
+    ],
+    lab : [
+        { title : 'Lab Assignment 1 to 5', link : 'https://drive.google.com/open?id=13nIzfhgdkHQkozOaI7S0fdL6a1iPLW8x'},
+        { title : 'Lab Assignment 6 to 7', link : 'https://drive.google.com/open?id=1Ua0O3kmWo89R42kyNBLJN5y1lbYexU5W'},
+        { title : 'Lab Assignment 8 to 10', link : 'https://drive.google.com/open?id=1c_cNX1hTJRw2JK2HfHIgsHl7IRVJRI4P'},
+        { title : 'Lab Assignment 11 to 15', link : 'https://drive.google.com/open?id=1A1BD44CKsz8FSjAXPmYygNJ7P3zC8gxZ'}
+    ],
+    paper : [
+        { title : '2017 MidSem', link : 'https://drive.google.com/open?id=1Nd10rAxeExViv_18YTJpA-3ADFhUvZ-7'},
+        { title : '2016 MidSem', link : 'https://drive.google.com/open?id=1N1c7yKvPy_g6Ynk7OM7vyUKUf28ilT2M'},
+        { title : '2016 EndSem', link : 'https://drive.google.com/open?id=1XEEW8qClfqG210Hk7Dftv-AY-ODfE_2l'},
+        { title : '2017 EndSem', link : 'https://drive.google.com/open?id=1TKNTSBhqQ3ASx1hBATaT2KIFrbTsE0sJ'},
+        { title : '2018 EndSem Aux', link : 'https://drive.google.com/open?id=1acq74l5qrfIuYnJQLsKVLHbGbYL-B1zC'},
+    ],
+    book : [
+        { title : 'Galvin', link : 'https://drive.google.com/open?id=1yv4bVUb3Gs3C7EIoi_-zbF9l3gm7aiSa'},
+        { title : 'Dhamdere OS', link : 'https://drive.google.com/open?id=1ldrOhOMCzS3_pL9LdtBd3csdCPRtgvzV'},
+        { title : 'Sumitabhas Lab', link : 'https://drive.google.com/open?id=1ts8K906vUYvx80H_phv_O3d8IwaC2hfM'},
+        { title : 'William Stallings', link : 'https://drive.google.com/open?id=1-VtxI7IXRX7kOApzxYW2_OpED71Wq_31'}
+    ],
+};
+
