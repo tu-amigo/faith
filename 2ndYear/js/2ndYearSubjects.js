@@ -157,17 +157,24 @@ var ues010 = {
         { title : 'Lab Manual', link : 'https://drive.google.com/open?id=1PKRq0DvHAZQSARh0o-4YIg1WPOddOgTh'}
     ],
     paper : [
-        { title : 'Title', link : 'url'}
+        { title : '2018 EndSem', link : 'https://drive.google.com/open?id=1Zti6DNCRuYfGMrMBswdSRTMnAX99A6JF'},
+        { title : '2018 MidSem', link : 'https://drive.google.com/open?id=1qn2icrUogWbuwnT3BT-dedk9CmvJAci_'},
+        { title : '2017 EndSem', link : 'https://drive.google.com/open?id=127X10co3THe4yLKVMtCroCDNtV-7T4kI'},
+        { title : '2017 EndSem', link : 'https://drive.google.com/open?id=13sRx4RoupEx7PCxC98aJCTxhvFkT9L73'},
+        { title : '2017 MidSem', link : 'https://drive.google.com/open?id=1DN7yRtGsBUY1KAf_TnYpiFE_8Bmgiy9C'},
+        { title : '2017 MidSem', link : 'https://drive.google.com/open?id=1rmOpyotlnCZ0sahxj2VP-aOoNVI1YZyL'},
+        { title : '2017 (Aux)', link : 'https://drive.google.com/open?id=1wB7fL8lYRQUcUl7blXNApXuMYErTzEPb'},
+        { title : '2016 EndSem', link : 'https://drive.google.com/open?id=1H1vZOmBGT7qgSCXFD1l0f5z4_bkib2nh'},
+        { title : '2016 MidSem', link : 'https://drive.google.com/open?id=1tLK-UWzv6nbzH9KPhxaD2gf6UvsYAbeJ'}       
     ],
-    book : [
-        { title : 'Title', link : 'url'}
-    ],
+    
     note : [
         { title : 'Stress Transformations', link : 'https://drive.google.com/open?id=1BChKqm2yV8ZS9L1kISsBtQBCXPrig_nt'},
         { title : 'Solids Notes Set 1', link : 'https://drive.google.com/open?id=1XBFjehF-D-UDH00SLJBz_q2PxBixYYG0'},
-        { title : 'Title', link : 'url'},
-        { title : 'Title', link : 'url'},
-        { title : 'Title', link : 'url'},
+        { title : 'Notes before MST', link : 'https://drive.google.com/open?id=1nU8EyaXz5CXEANmh9Fq1MhIvyz7LBGd-'},
+        { title : 'Solids Notes Set 2', link : 'https://drive.google.com/open?id=19ZTaFJ5uhKw9KGQolHumS-gffM0BZpg7'},
+        { title : 'Mohr Circle', link : 'https://drive.google.com/open?id=183sRtq3tV2FhbZtjBX0Cs66I5kQ18WHY'},
+        { title : 'Direct Stress', link : 'https://drive.google.com/open?id=1Nhqmsi0DiqVyI49JZE-tEYcHO_Aocdu8'},
     ]
 };
 
