@@ -235,7 +235,7 @@ var uec510 = {
     code : 'UEC510',
     credit : 3.5,
     ltp : 'L-3 &nbsp;&nbsp;&nbsp; T-1 &nbsp;&nbsp;&nbsp; P-0',
-    handout : 'https://jpg2pdf.com/',
+    handout : 'https://drive.google.com/open?id=1DteXj86ad7LShTw3GxENVaxWaDyRqBIt',
     marks : [
         { num : 1, test: 'MST', mark: 30},
         { num : 2, test: 'EST', mark: 45},
