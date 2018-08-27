@@ -331,10 +331,10 @@ var uec404 = {
         { num : 3, test: 'Lab/Quiz/Project', mark: 40}
     ],
     sheet : [
-        { title : 'Tutorial Sheet 1', link : ''},
-        { title : 'Tutorial Sheet 2', link : ''},
-        { title : 'Tutorial Sheet 3', link : ''},
-        { title : 'Tutorial Sheet 4', link : ''},
+        { title : 'Tutorial Sheet 1 (With Sol)', link : 'https://drive.google.com/open?id=1yinNWwGFUwICOTRk-paAEIQkIWg6O1JW'},
+        { title : 'Tutorial Sheet 2', link : 'https://drive.google.com/open?id=1ovqXxmr3jvjpSjSGjAgPXCLvjNfM6L4G',sollink : 'https://drive.google.com/open?id=1e2YJWM7eag7IgG1IuemdQIys7wCq1dxC', status : 'AV'},
+        { title : 'Tutorial Sheet 3 (With Sol)', link : 'https://drive.google.com/open?id=1ACS3zxyW4DPYE-M64thbPtAFOtpsmR7C'},
+        { title : 'Tutorial Sheet 4', link : 'https://drive.google.com/open?id=15Wn_EewmaMhjGnRPAZFtqnYw43Ylwmlm',sollink : 'https://drive.google.com/open?id=1pLkbvygHFK1VooDLyc14-yKoZGYltls0', status : 'AV'},
         { title : 'Tutorial Sheet 5', link : ''},
         { title : 'Tutorial Sheet 6', link : ''},
         { title : 'Tutorial Sheet 7', link : ''},
