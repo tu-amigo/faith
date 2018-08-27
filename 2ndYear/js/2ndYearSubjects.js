@@ -163,7 +163,11 @@ var ues010 = {
         { title : 'Title', link : 'url'}
     ],
     note : [
-        { title : 'Title', link : 'url'}
+        { title : 'Stress Transformations', link : 'https://drive.google.com/open?id=1BChKqm2yV8ZS9L1kISsBtQBCXPrig_nt'},
+        { title : 'Solids Notes Set 1', link : 'https://drive.google.com/open?id=1XBFjehF-D-UDH00SLJBz_q2PxBixYYG0'},
+        { title : 'Title', link : 'url'},
+        { title : 'Title', link : 'url'},
+        { title : 'Title', link : 'url'},
     ]
 };
 
