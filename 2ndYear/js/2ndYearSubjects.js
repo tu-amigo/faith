@@ -326,12 +326,22 @@ var uec404 = {
     ltp : 'L-3 &nbsp;&nbsp;&nbsp; T-1 &nbsp;&nbsp;&nbsp; P-2',
     handout : 'https://drive.google.com/open?id=1fHBTXvtaQwwHp4ZyeRFOpwQyS6hKJIki',
     marks : [
-        { num : 1, test: 'MST', mark: 0},
-        { num : 2, test: 'EST', mark: 0},
-        { num : 3, test: 'Lab/Quiz/Project', mark: 0}
+        { num : 1, test: 'MST', mark: 25},
+        { num : 2, test: 'EST', mark: 35},
+        { num : 3, test: 'Lab/Quiz/Project', mark: 40}
     ],
     sheet : [
-        { title : 'Title', link : 'url'}
+        { title : 'Tutorial Sheet 1', link : ''},
+        { title : 'Tutorial Sheet 2', link : ''},
+        { title : 'Tutorial Sheet 3', link : ''},
+        { title : 'Tutorial Sheet 4', link : ''},
+        { title : 'Tutorial Sheet 5', link : ''},
+        { title : 'Tutorial Sheet 6', link : ''},
+        { title : 'Tutorial Sheet 7', link : ''},
+        { title : 'Tutorial Sheet 8', link : ''},
+        { title : 'Tutorial Sheet 9', link : ''},
+        { title : 'Tutorial Sheet 1', link : ''},
+
     ],
     slide : [
         { title : 'Title', link : 'url'}
@@ -356,7 +366,8 @@ var uec404 = {
     ],
     book : [
         { title : 'Oppenheim - Signals and Systems', link : 'https://drive.google.com/open?id=1qLPaoZeakr4J0WyXRoegNiyWjEtjN5o2'},
-        { title : 'Lathi - Signal Processing and Linear Systems', link : 'url'}
+        { title : 'Lathi - Signal Processing and Linear Systems', link : 'https://drive.google.com/open?id=1INAKPKepn3fgWK8lirQuzFW0swEEM-2W'},
+        { title : 'Getting Started with MATLAB ', link : 'url'}
     ],
     note : [
         { title : 'Title', link : 'url'}
