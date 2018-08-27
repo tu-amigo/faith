@@ -211,7 +211,18 @@ var uma007 = {
         { title : 'Tutorial Sheet 4', link : 'https://drive.google.com/open?id=1BmBgEOUFjwWclQZvB-eu9uvkOoGMX51X'}
     ],
     lab : [
-        { title : 'Title', link : 'url'}
+        { title : 'Lab Assignments', link : 'https://drive.google.com/open?id=1zSXIIi5_rfA-ljrqWQ9B0ZECmOuZEAPo'},
+        { title : 'Bisection', link : 'https://drive.google.com/open?id=15nzi1Situ4lcVgE_5a-GEvxqwJg74vok'},
+        { title : 'Divided Difference', link : 'https://drive.google.com/open?id=1bdKbWlgm72bCI0oI2_OB7N1cLnsYQ6jP'},
+        { title : 'Euler', link : 'https://drive.google.com/open?id=1oXHcrqOjDYOoI6LTKcBsp77K45HRW4gx'},
+        { title : 'Fixed', link : 'https://drive.google.com/open?id=1fSvY98CJRc_3u0OJGBUSQ3jzPlpveL7A'},
+        { title : 'Gauss_Seidel', link : 'https://drive.google.com/open?id=1e_Mu1zJzO-vXpxH4BQ8EBrjawdGvfWdH'},
+        { title : 'Lagrange', link : 'https://drive.google.com/open?id=1yOQYUaq6GtQoplhrM3vrG54amoQMR4lx'},
+        { title : 'Newton', link : 'https://drive.google.com/open?id=1ei0M3a3yxp8oBjZOUhxFj1ko2EXHzPSO'},
+        { title : 'Power', link : 'https://drive.google.com/open?id=1KG9JzkeltgNy5L-x68VHqcu9qVi82NaM'},
+        { title : 'Secant', link : 'https://drive.google.com/open?id=1tgrGodVqBqrTsOElPBFXU-BQN2GO_4sP'},
+        { title : 'Secent (2)', link : 'https://drive.google.com/open?id=1YzjXpZrK3t711vKmLK9E8KyiDkGli4Hg'}
+
     ],
     paper : [
         { title : 'Title', link : 'url'}
@@ -262,7 +273,7 @@ var uec404 = {
     code : 'UEC404',
     credit : 4.5,
     ltp : 'L-3 &nbsp;&nbsp;&nbsp; T-1 &nbsp;&nbsp;&nbsp; P-2',
-    handout : 'url',
+    handout : 'https://drive.google.com/open?id=1fHBTXvtaQwwHp4ZyeRFOpwQyS6hKJIki',
     marks : [
         { num : 1, test: 'MST', mark: 0},
         { num : 2, test: 'EST', mark: 0},
@@ -287,12 +298,13 @@ var uec404 = {
         { title : 'Title', link : 'url'}
     ]
 };
-//Full Subject Name
-var SubjectCode_Small_letters = {
-    name : '',
-    code : '',
-    credit : 0,
-    ltp : 'L- &nbsp;&nbsp;&nbsp; T- &nbsp;&nbsp;&nbsp; P-',
+
+//UEC403 Circuit Analysis and Synthesis
+var uec403 = {
+    name : 'UEC403 Circuit Analysis and Synthesis',
+    code : 'UEC403',
+    credit : 3.5,
+    ltp : 'L-3 &nbsp;&nbsp;&nbsp; T-1 &nbsp;&nbsp;&nbsp; P-0',
     handout : 'url',
     marks : [
         { num : 1, test: 'MST', mark: 0},
