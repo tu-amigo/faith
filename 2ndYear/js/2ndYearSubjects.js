@@ -25,13 +25,25 @@ var ues012 = {
         { title : 'Title', link : 'url'}
     ],
     lab : [
-        { title : 'Title', link : 'url'}
+        { title : 'Curie Temperature', link : 'https://drive.google.com/open?id=1DISvBrXcuUdEox1Smw8r6JrTwQx1Xa1S'},
+        { title : 'Cooling Curve', link : 'https://drive.google.com/open?id=1Qju2D2ChJ_1-S8E025FbsjTuZHgXau3L'},
+        { title : 'Young Modulus', link : 'https://drive.google.com/open?id=1zy4G7Vu4_7AXua6NizV8v2le6RWyyYFa'},
+        { title : 'Diectric Constant', link : 'https://drive.google.com/open?id=1vlZbXQ9vOZ6kyFqjhBXESdg0iqmffGLF'},
+        { title : 'Flaws Using UFD', link : 'https://drive.google.com/open?id=1Uvs8luLdhAlhkSlB3_ajeNS5aUTyopin'},
+        { title : 'Grain Size', link : 'https://drive.google.com/open?id=1FtIL_41DwrZ07lF-K7ojO21QmjvIark8'},
+        { title : 'Fibre and Void Fraction', link : 'https://drive.google.com/open?id=1tKHU45I36uLbUp0bmW0fysdqNWhpkTeC'},
+        { title : 'Hall Coefficient', link : 'https://drive.google.com/open?id=11crfE6kruV94EGjKJ8oqkCRx0JztdYpd'},
+        { title : 'Band Gap Energy', link : 'https://drive.google.com/open?id=1mERPnVj2bEUXPRb_prRO5RdG__lNxzrr'},
+        { title : 'Resistivity by Four Probe', link : 'https://drive.google.com/open?id=1EZsRLOPSwUOPRk7FfTvnk613PNsJYoYD'},
+        { title : 'Creep', link : 'https://drive.google.com/open?id=1GJeCr6j5ddkrwmUxuq8LITP3BJsDxmLq'}
     ],
     paper : [
         { title : 'Last Year Quiz', link : 'https://drive.google.com/open?id=1BdnmiO6_613Yjldrdoz0r5anKZNj_oSy'}
     ],
     book : [
-        { title : 'Title', link : 'url'}
+        { title : 'Material Science - Callister', link : 'https://drive.google.com/open?id=1ouv9DQZLsIMeTfI93timVcOW-lfqBYgx'},
+        { title : 'Introduction from Raghavan', link : ''},
+        { title : 'Crystal Geometry from Raghavan', link : ''}
     ],
     note : [
         { title : 'Title', link : 'url'}
