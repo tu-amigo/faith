@@ -16,10 +16,10 @@ var ues012 = {
     sheet : [
         { title : 'Tutorial Sheet 1-2', link : 'https://drive.google.com/open?id=1sKPLrT9Qn4RHkZIqQ-RYOlDS0M2h3ZM7', sollink : 'https://drive.google.com/open?id=1tIScv4-ANmocaJ7DNDxshvy6FVH5v187', status : 'AV'},
         { title : 'Tutorial Sheet 3-4', link : 'https://drive.google.com/open?id=1IWdyzFlJaTYU_87Ya64y8j50_HIbl_D7', sollink : 'https://drive.google.com/open?id=1tIScv4-ANmocaJ7DNDxshvy6FVH5v187', status : 'AV'},
-        { title : 'Tutorial Sheet 5', link : 'https://drive.google.com/open?id=1EkIKA0Trqr76a2JkCIcILRo4DHKv-uXb', sollink : '', status : 'NAV'},
-        { title : 'Tutorial Sheet 6', link : 'https://drive.google.com/open?id=1ZECUX4iAjUeMEVo1ArWC6WwjtuAfEeQ1', sollink : '', status : 'NAV'},
-        { title : 'Tutorial Sheet 7', link : 'https://drive.google.com/open?id=16jDUuIbWjy-1FV4oLqxUy87M7ODOplLJ', sollink : '', status : 'NAV'},
-        { title : 'Tutorial Sheet 8-9', link : 'https://drive.google.com/open?id=1zQyUkn9hiQW3A-mZvj5BxosdBp2r8o3J', sollink : '', status : 'NAV'}
+        { title : 'Tutorial Sheet 5', link : 'https://drive.google.com/open?id=1EkIKA0Trqr76a2JkCIcILRo4DHKv-uXb', sollink : 'https://drive.google.com/open?id=1A8B5VQg2R2vq2q9g7nkWUvqlGYqyo6dq', status : 'AV'},
+        { title : 'Tutorial Sheet 6', link : 'https://drive.google.com/open?id=1ZECUX4iAjUeMEVo1ArWC6WwjtuAfEeQ1', sollink : 'https://drive.google.com/open?id=1A8B5VQg2R2vq2q9g7nkWUvqlGYqyo6dq', status : 'AV'},
+        { title : 'Tutorial Sheet 7', link : 'https://drive.google.com/open?id=16jDUuIbWjy-1FV4oLqxUy87M7ODOplLJ', sollink : 'https://drive.google.com/open?id=1eU7KF86QVo-M4oiEKTT1owv0vcw17NdY', status : 'AV'},
+        { title : 'Tutorial Sheet 8-9', link : 'https://drive.google.com/open?id=1zQyUkn9hiQW3A-mZvj5BxosdBp2r8o3J', sollink : 'https://drive.google.com/open?id=1pyKpg2VGBM8l2S5HtaFdEXFHOX3fL-LD', status : 'AV'}
     ],
     slide : [
         { title : 'Title', link : 'url'}
