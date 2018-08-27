@@ -175,7 +175,7 @@ var ucs406 = {
         { title : '2016 MidSem', link : 'https://drive.google.com/open?id=1xAtfjOtWvJEpK9PlmsCx32-VSvHrO4sJ'}
     ],
     book : [
-        { title : 'Introduction to Algorithms' , link : 'https://drive.google.com/open?id=1RPjIVVHGqIrPf7V0ov-iy0rKXZYXmcP5'},
+        { title : 'Introduction to Algorithms by Cormen' , link : 'https://drive.google.com/open?id=1RPjIVVHGqIrPf7V0ov-iy0rKXZYXmcP5'},
         { title : 'Data Structures with C' , link : 'https://drive.google.com/open?id=1NdULNNis3sXaggVNk6cBbFfwa8_6xGzk'},
         { title : 'Schaum Series ebook' , link : 'https://drive.google.com/open?id=1Jmt2aPszLE-Mb5YxktS8YD1GqbTQ7O7m'},
         { title : 'Data Structure with Java' , link : 'https://drive.google.com/open?id=1fmuZJgCaxi4gLD6747JC5C1VFmKPk68W'},

@@ -38,7 +38,16 @@ var ues012 = {
         { title : 'Creep', link : 'https://drive.google.com/open?id=1GJeCr6j5ddkrwmUxuq8LITP3BJsDxmLq'}
     ],
     paper : [
-        { title : 'Last Year Quiz', link : 'https://drive.google.com/open?id=1BdnmiO6_613Yjldrdoz0r5anKZNj_oSy'}
+        { title : 'Last Year Quiz', link : 'https://drive.google.com/open?id=1BdnmiO6_613Yjldrdoz0r5anKZNj_oSy'},
+        { title : '2018 (AUX)',  link : 'https://drive.google.com/open?id=1QJwdRJUSc23D7DzSs0D6sPJkHQxHkpTo'},
+        { title : '2018 EndSem', link : 'https://drive.google.com/open?id=1fy-1UX2ZFMYyljvtnKMHU7JjH3xqnsqY'},
+        { title : '2018 MidSem', link : 'https://drive.google.com/open?id=1Y3i9hCjY9E5NZBP6elvloEJq3E5Ro4kb'},
+        { title : '2017 EndSem', link : 'https://drive.google.com/open?id=1YawpOPIjNu5OkJs3ofn_7e1BUsjzv67Q'},
+        { title : '2017 EndSem', link : 'https://drive.google.com/open?id=1CTkryMaOaKkzSvBUVRv33fKNT5kuvzqg'},
+        { title : '2017 MidSem', link : 'https://drive.google.com/open?id=1xLmCczhvqMHr_rz1xbKJ0pe5boBirAzl'},
+        { title : '2017 MidSem', link : 'https://drive.google.com/open?id=17qU2lTAYR83ytgrRTDIHcl1C9XfiV6Ty'},
+        { title : '2016 EndSem', link : 'https://drive.google.com/open?id=1KtarIvEKEcKe-Ow5c3VZDXHhzoTLDM24'},
+        { title : '2016 MidSem', link : 'https://drive.google.com/open?id=1fKWOXfhXsVaSCqXMFzq0k19aKpXAcKDh'},
     ],
     book : [
         { title : 'Material Science - Callister', link : 'https://drive.google.com/open?id=1ouv9DQZLsIMeTfI93timVcOW-lfqBYgx'},
