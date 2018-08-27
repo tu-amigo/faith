@@ -337,21 +337,26 @@ var uec404 = {
         { title : 'Title', link : 'url'}
     ],
     lab : [
-        { title : '', link : ''}
-        { title : '', link : ''}
-        { title : '', link : ''}
-        { title : '', link : ''}
-        { title : '', link : ''}
-        { title : '', link : ''}
-        { title : '', link : ''}
-        { title : '', link : ''}
+        { title : 'Lab Objectives', link : 'https://drive.google.com/open?id=1qE7BmiatRaMdcMejZPD2JBk5RIUoeadj'},
+        { title : 'Experiment 1', link : 'https://drive.google.com/open?id=1BCTpUeyVpPMkdtmXnqKSiLdJnFdmEryD'},
+        { title : 'Experiment 2', link : 'https://drive.google.com/open?id=1Dvx6jk6zK4fWKUIwhxaKAJfc3EcFddat'},
+        { title : 'Experiment 3', link : 'https://drive.google.com/open?id=1otK-hNgIpz6G-sLSvCUvDEO6MJgUnxxG'},
+        { title : 'Experiment 4', link : ''},
+        { title : 'Experiment 5', link : 'https://drive.google.com/open?id=1VmhRNLdFutFa6PgdDRwlTvy9dKVSSuyx'},
+        { title : 'Experiment 6', link : ''},
+        { title : 'Experiment 7', link : 'https://drive.google.com/open?id=1HkcXrgj_gzOny0hPH0MBT0gulozP88BY'},
+        { title : 'Experiment 8', link : ''},
+        { title : 'Experiment 9', link : 'https://drive.google.com/open?id=18Eiji0JDorGOY92owi-dHTljROEh6Aau'},
+        { title : 'Experiment 10', link : 'https://drive.google.com/open?id=11aXIZKa0jpwAX3ZpKT0NoqPnm0iyZyOA'},
+        { title : 'Experiment ', link : ''}
 
     ],
     paper : [
         { title : 'Title', link : 'url'}
     ],
     book : [
-        { title : 'Oppenheim - Signals and Systems', link : 'https://drive.google.com/open?id=1qLPaoZeakr4J0WyXRoegNiyWjEtjN5o2'}
+        { title : 'Oppenheim - Signals and Systems', link : 'https://drive.google.com/open?id=1qLPaoZeakr4J0WyXRoegNiyWjEtjN5o2'},
+        { title : 'Lathi - Signal Processing and Linear Systems', link : 'url'}
     ],
     note : [
         { title : 'Title', link : 'url'}
