@@ -306,7 +306,7 @@ var uec502 = {
     sheet : [
         { title : 'Tutorial Sheet 1', link : 'https://drive.google.com/open?id=1VK64l0RVGCsrerU_9KvdG5sOfoFDBf8j', sollink : '', status : 'NAV'},
         { title : 'Tutorial Sheet 2', link : 'https://drive.google.com/open?id=11ZlHfpGkWfvjrTBgou96rT_TNOCN54Tm', sollink : '', status : 'NAV'},
-        { title : 'Tutorial Sheet 3', link : 'https://drive.google.com/open?id=1VUo2R8bux7KKi6sNuHhT9-FiGCRDAo2h', sollink : '', status : 'NAV'}
+        { title : 'Tutorial Sheet 3', link : 'https://drive.google.com/open?id=1VUo2R8bux7KKi6sNuHhT9-FiGCRDAo2h', sollink : '', status : 'NAV'},
         { title : 'Tutorial Sheet 4', link : 'https://drive.google.com/open?id=1dqaBEYzXh0bavwQwVQrH_kCEr4R_u8sI', sollink : '', status : 'NAV'}
         
     ],
