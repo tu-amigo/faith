@@ -71,7 +71,7 @@ var uec401 = {
     ],
     sheet : [
         { title : 'Tutorial Sheet 1', link : 'https://drive.google.com/open?id=1MpVaEWtMlGWrZ7fdgzLFSfhbEzMeQYBU', sollink : 'https://drive.google.com/open?id=17GmjKRnpU71hq6uB_z0bkMlXboHfdi7V', status : 'AV'},
-        { title : 'Tutorial Sheet 2', link : 'https://drive.google.com/open?id=1uI6MpO-thcG8AmnatsHD8r7mvwNmoppy', sollink : '', status : 'AV'},
+        { title : 'Tutorial Sheet 2', link : 'https://drive.google.com/open?id=1uI6MpO-thcG8AmnatsHD8r7mvwNmoppy', sollink : 'https://drive.google.com/open?id=1GcVddbnNusscxGFCV_02xXY4Y0dRr2dl', status : 'AV'},
         { title : 'Tutorial Sheet 3', link : 'https://drive.google.com/open?id=1-pDKJ0Ocs9HhAcWA69uyFCLKw5PtF86x', sollink : '', status : 'NAV'},
         { title : 'Tutorial Sheet 4', link : 'https://drive.google.com/open?id=1BeTWDO2989kiRfgN5sJrbL4erybu2oPO', sollink : '', status : 'NAV'},
         { title : 'Tutorial Sheet 5', link : 'https://drive.google.com/open?id=14hJVdf40WxrxYji73zG6mRyRi7e1doaj', sollink : '', status : 'NAV'}
