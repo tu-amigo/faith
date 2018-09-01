@@ -153,6 +153,10 @@ var uec612 = {
        { title : '2017 MidSem', link : 'https://drive.google.com/open?id=1YW1NOiJ-xIqSYRyuWZ2i7oOMz345m_je'},
        { title : '2016 MidSem', link : 'https://drive.google.com/open?id=1lsh2bV6SRGwgW0rEvk5jNYvrrq-jnJPk'}
    ],
+       book : [
+        { title : 'Digital Design by Morris Mano' , link : ' https://drive.google.com/open?id=1ZJYlOkPUew7rJI5Hn7H9ykTDMKF1jpik'}
+    
+   ]
 };
 
 //UCS406 Data Structures & Algorithms
@@ -328,3 +332,159 @@ var uec502 = {
         
     ]
  };
+
+ //UCS616 Advanced Data Structures and Algorithms
+var ucs616 = {
+    name : 'Advanced Data Structures and Algorithms',
+    code : 'UCS616',
+    credit : 4,
+    ltp : 'L-3 &nbsp;&nbsp;&nbsp; T- &nbsp;&nbsp;&nbsp; P-2',
+    handout : 'url',
+    marks : [
+        { num : 1, test: 'MST', mark: 0},
+        { num : 2, test: 'EST', mark: 0},
+        { num : 3, test: 'Lab/Quiz/Project', mark: 0}
+    ],
+    sheet : [
+        { title : 'Title', link : 'url'}
+    ],
+    slide : [
+        { title : 'Title', link : 'url'}
+    ],
+    lab : [
+        { title : 'Title', link : 'url'}
+    ],
+    paper : [
+        { title : 'Title', link : 'url'}
+    ],
+    book : [
+        { title : 'Title', link : 'url'}
+    ],
+    note : [
+        { title : 'Title', link : 'url'}
+    ]
+};
+//UCS503 Software Engineering
+var ucs503 = {
+    name : 'Software Engineering',
+    code : 'UCS503',
+    credit : 4,
+    ltp : 'L-3 &nbsp;&nbsp;&nbsp; T- &nbsp;&nbsp;&nbsp; P-2',
+    handout : 'url',
+    marks : [
+        { num : 1, test: 'MST', mark: 0},
+        { num : 2, test: 'EST', mark: 0},
+        { num : 3, test: 'Lab/Quiz/Project', mark: 0}
+    ],
+    sheet : [
+        { title : 'Title', link : 'url'}
+    ],
+    slide : [
+        { title : 'Title', link : 'url'}
+    ],
+    lab : [
+        { title : 'Title', link : 'url'}
+    ],
+    paper : [
+        { title : 'Title', link : 'url'}
+    ],
+    book : [
+        { title : 'Title', link : 'url'}
+    ],
+    note : [
+        { title : 'Title', link : 'url'}
+    ]
+};
+//UCS507 Computer Architecture and Organization
+var ucs507 = {
+    name : 'Computer Architecture and Organization',
+    code : 'UCS507',
+    credit : 4,
+    ltp : 'L-3 &nbsp;&nbsp;&nbsp; T- &nbsp;&nbsp;&nbsp; P-2',
+    handout : 'url',
+    marks : [
+        { num : 1, test: 'MST', mark: 0},
+        { num : 2, test: 'EST', mark: 0},
+        { num : 3, test: 'Lab/Quiz/Project', mark: 0}
+    ],
+    sheet : [
+        { title : 'Title', link : 'url'}
+    ],
+    slide : [
+        { title : 'Title', link : 'url'}
+    ],
+    lab : [
+        { title : 'Title', link : 'url'}
+    ],
+    paper : [
+        { title : 'Title', link : 'url'}
+    ],
+    book : [
+        { title : 'Title', link : 'url'}
+    ],
+    note : [
+        { title : 'Title', link : 'url'}
+    ]
+};
+//UCS701 Theory of Computation
+var ucs701 = {
+    name : 'Theory of Computation',
+    code : 'ucs701',
+    credit : 3.5,
+    ltp : 'L-3 &nbsp;&nbsp;&nbsp; T-1 &nbsp;&nbsp;&nbsp; P-',
+    handout : 'url',
+    marks : [
+        { num : 1, test: 'MST', mark: 0},
+        { num : 2, test: 'EST', mark: 0},
+        { num : 3, test: 'Lab/Quiz/Project', mark: 0}
+    ],
+    sheet : [
+        { title : 'Title', link : 'url'}
+    ],
+    slide : [
+        { title : 'Title', link : 'url'}
+    ],
+    lab : [
+        { title : 'Title', link : 'url'}
+    ],
+    paper : [
+        { title : 'Title', link : 'url'}
+    ],
+    book : [
+        { title : 'Title', link : 'url'}
+    ],
+    note : [
+        { title : 'Title', link : 'url'}
+    ]
+};
+//UCS521 Artificial Intelligence
+var ucs521 = {
+    name : 'Artificial Intelligence',
+    code : 'UCS521',
+    credit : 3.5,
+    ltp : 'L-3 &nbsp;&nbsp;&nbsp; T-1 &nbsp;&nbsp;&nbsp; P-',
+    handout : 'url',
+    marks : [
+        { num : 1, test: 'MST', mark: 0},
+        { num : 2, test: 'EST', mark: 0},
+        { num : 3, test: 'Lab/Quiz/Project', mark: 0}
+    ],
+    sheet : [
+        { title : 'Title', link : 'url'}
+    ],
+    slide : [
+        { title : 'Title', link : 'url'}
+    ],
+    lab : [
+        { title : 'Title', link : 'url'}
+    ],
+    paper : [
+        { title : 'Title', link : 'url'}
+    ],
+    book : [
+        { title : 'Title', link : 'url'}
+    ],
+    note : [
+        { title : 'Title', link : 'url'}
+    ]
+};
