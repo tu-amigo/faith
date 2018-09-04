@@ -138,7 +138,7 @@ var uec612 = {
 
    ],
    sheet : [
-       { title : 'Tutorial Sheet 1', link : 'https://drive.google.com/open?id=1DJGfEyPG2QhmwUE9BP79KZ1NMUUn60EQ', sollink : '', status : 'NAV'},
+       { title : 'Tutorial Sheet 1', link : 'https://drive.google.com/open?id=1DJGfEyPG2QhmwUE9BP79KZ1NMUUn60EQ', sollink : 'https://drive.google.com/open?id=1B4NIy42RnvP0NNS1NbluGpXU2Devh5mJ', status : 'AV'},
        { title : 'Tutorial Sheet 2', link : 'https://drive.google.com/open?id=1cIIMJ2K8Lsmz0XTLJ89hKCTHWbWfNqDB', sollink : '', status : 'NAV'},
        { title : 'Tutorial Sheet 3', link : 'https://drive.google.com/open?id=1TnSaH9LkqS5mL8QLck84vZ5NDHaZlcyM', sollink : '', status : 'NAV'}
    ],
