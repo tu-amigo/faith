@@ -32,6 +32,12 @@
     .mt-5-small{
         margin-top: 2.5rem !important;
     }
+    footer .footer-widget-link ul {
+        margin: 0 0 30px 0;
+    }
+    footer .contact-widget .widget-contact-list{
+        margin-top: 18px;
+    }
 }
 
 /* footer */
@@ -48,7 +54,7 @@
 }
 
 .footer-widget-link ul {
-    margin: 50px 0 0
+    margin: 30px 0 0
 }
 
 .footer-widget-link ul li a {
@@ -132,7 +138,7 @@
 }
 
 .contact-widget .widget-contact-list {
-    margin-top: 50px
+    margin-top: 30px
 }
 
 .contact-widget .widget-contact-list li span,.contact-widget .widget-contact-list li a {
